@@ -1,0 +1,1418 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vim Galore",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2023-12-22T22:15:38Z",
+            "owner": "mhinz",
+            "repo": "vim-galore",
+            "stars": 17943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PacVim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-23T18:15:25Z",
+            "owner": "jmoon018",
+            "repo": "PacVim",
+            "stars": 3329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Vim (Chinese)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T15:02:37Z",
+            "owner": "dofy",
+            "repo": "learn-vim",
+            "stars": 1725
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Way of the Vim Warrior",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-27T21:02:13Z",
+            "owner": "dahu",
+            "repo": "LearnVim",
+            "stars": 420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fortune vimtips",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VimL",
+            "last_commit": "2016-08-24T19:58:29Z",
+            "owner": "openuado",
+            "repo": "vimtips-fortune",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vim Doctor",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Learning Vim"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vim-plug",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-05-22T13:40:34Z",
+            "owner": "junegunn",
+            "repo": "vim-plug",
+            "stars": 35753
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vundle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2024-07-30T05:53:03Z",
+            "owner": "VundleVim",
+            "repo": "Vundle.vim",
+            "stars": 23928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lazy.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-29T18:23:04Z",
+            "owner": "folke",
+            "repo": "lazy.nvim",
+            "stars": 21406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pathogen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2022-08-24T17:21:16Z",
+            "owner": "tpope",
+            "repo": "vim-pathogen",
+            "stars": 12131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dein.vim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2025-09-13T00:40:44Z",
+            "owner": "Shougo",
+            "repo": "dein.vim",
+            "stars": 3425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neobundle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2018-07-26T00:04:32Z",
+            "owner": "Shougo",
+            "repo": "neobundle.vim",
+            "stars": 2283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VAM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-05-09T15:32:56Z",
+            "owner": "MarcWeber",
+            "repo": "vim-addon-manager",
+            "stars": 666
+          }
+        }
+      ],
+      "title": "Plugin Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gruvbox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-06-08T16:29:56Z",
+            "owner": "morhetz",
+            "repo": "gruvbox",
+            "stars": 15677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solarized",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VimL",
+            "last_commit": "2024-04-10T14:44:21Z",
+            "owner": "altercation",
+            "repo": "vim-colors-solarized",
+            "stars": 6592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "onedark",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-04-02T05:23:30Z",
+            "owner": "joshdick",
+            "repo": "onedark.vim",
+            "stars": 3997
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Molokai",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VimL",
+            "last_commit": "2022-10-27T16:47:30Z",
+            "owner": "tomasr",
+            "repo": "molokai",
+            "stars": 3627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jellybeans",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2020-09-30T16:09:27Z",
+            "owner": "nanotech",
+            "repo": "jellybeans.vim",
+            "stars": 1861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apprentice",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2025-07-14T06:06:25Z",
+            "owner": "romainl",
+            "repo": "Apprentice",
+            "stars": 930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Base16",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2024-06-08T15:54:08Z",
+            "owner": "chriskempson",
+            "repo": "base16-vim",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Darcula",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2018-05-23T22:03:50Z",
+            "owner": "blueshirts",
+            "repo": "darcula",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple-dark",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-07-05T05:24:13Z",
+            "owner": "tek256",
+            "repo": "simple-dark",
+            "stars": 101
+          }
+        }
+      ],
+      "title": "Colors"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Surround",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2024-06-30T12:27:56Z",
+            "owner": "tpope",
+            "repo": "vim-surround",
+            "stars": 14096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NerdCommenter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2025-11-19T08:24:44Z",
+            "owner": "preservim",
+            "repo": "nerdcommenter",
+            "stars": 5007
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unimpaired",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2025-08-16T16:51:54Z",
+            "owner": "tpope",
+            "repo": "vim-unimpaired",
+            "stars": 3464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EditorConfig",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-03-16T00:41:14Z",
+            "owner": "editorconfig",
+            "repo": "editorconfig-vim",
+            "stars": 3166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Abolish",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2024-08-07T21:16:02Z",
+            "owner": "tpope",
+            "repo": "vim-abolish",
+            "stars": 2958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repeat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2024-07-08T21:28:41Z",
+            "owner": "tpope",
+            "repo": "vim-repeat",
+            "stars": 2713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tabular",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2024-07-03T16:03:39Z",
+            "owner": "godlygeek",
+            "repo": "tabular",
+            "stars": 2660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IndentGuides",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2023-06-14T16:40:10Z",
+            "owner": "preservim",
+            "repo": "vim-indent-guides",
+            "stars": 2654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Targets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2024-07-10T12:17:30Z",
+            "owner": "wellle",
+            "repo": "targets.vim",
+            "stars": 2644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DelimitMate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2024-08-06T06:02:38Z",
+            "owner": "Raimondi",
+            "repo": "delimitMate",
+            "stars": 2003
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextobjUser",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2020-02-21T09:29:25Z",
+            "owner": "kana",
+            "repo": "vim-textobj-user",
+            "stars": 1471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gundo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2022-01-29T14:56:29Z",
+            "owner": "sjl",
+            "repo": "gundo.vim",
+            "stars": 1469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TComment",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2024-03-25T10:36:44Z",
+            "owner": "tomtom",
+            "repo": "tcomment_vim",
+            "stars": 1413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExpandRegion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VimL",
+            "last_commit": "2024-06-28T01:56:54Z",
+            "owner": "terryma",
+            "repo": "vim-expand-region",
+            "stars": 1129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DoGe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T14:05:14Z",
+            "owner": "kkoomen",
+            "repo": "vim-doge",
+            "stars": 1058
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WindowSwap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2019-10-23T13:25:24Z",
+            "owner": "wesQ3",
+            "repo": "vim-windowswap",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YankStack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-01-27T22:53:38Z",
+            "owner": "maxbrunsfeld",
+            "repo": "vim-yankstack",
+            "stars": 441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VisualSplit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2017-01-29T17:21:45Z",
+            "owner": "wellle",
+            "repo": "visual-split.vim",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextobjWordColumn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VimL",
+            "last_commit": "2012-11-19T22:00:29Z",
+            "owner": "coderifous",
+            "repo": "textobj-word-column.vim",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextobjIndent",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VimL",
+            "last_commit": "2020-12-04T21:45:45Z",
+            "owner": "kana",
+            "repo": "vim-textobj-indent",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Align",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VimL",
+            "last_commit": "2013-04-01T02:33:25Z",
+            "owner": "vim-scripts",
+            "repo": "Align",
+            "stars": 134
+          }
+        }
+      ],
+      "title": "Editing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NERDTree",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2025-09-26T16:07:39Z",
+            "owner": "preservim",
+            "repo": "nerdtree",
+            "stars": 20088
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vinegar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2024-06-28T23:22:40Z",
+            "owner": "tpope",
+            "repo": "vim-vinegar",
+            "stars": 2347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dirvish",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-07-05T11:04:57Z",
+            "owner": "justinmk",
+            "repo": "vim-dirvish",
+            "stars": 1275
+          }
+        }
+      ],
+      "title": "File Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fugitive",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-03-07T19:20:47Z",
+            "owner": "tpope",
+            "repo": "vim-fugitive",
+            "stars": 21762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-gitgutter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-07-21T11:08:11Z",
+            "owner": "airblade",
+            "repo": "vim-gitgutter",
+            "stars": 8516
+          }
+        }
+      ],
+      "title": "Git"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Airline",
+          "description": "+ Airline Themes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-07-25T17:16:51Z",
+            "owner": "vim-airline",
+            "repo": "vim-airline",
+            "stars": 17959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Startify",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2024-01-05T12:47:32Z",
+            "owner": "mhinz",
+            "repo": "vim-startify",
+            "stars": 5387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Signify",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-03-12T14:24:49Z",
+            "owner": "mhinz",
+            "repo": "vim-signify",
+            "stars": 2728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-quickui",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-06-30T08:04:47Z",
+            "owner": "skywind3000",
+            "repo": "vim-quickui",
+            "stars": 1176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-lastplace",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2024-05-18T01:15:12Z",
+            "owner": "farmergreg",
+            "repo": "vim-lastplace",
+            "stars": 636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-diminactive",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2021-09-25T08:18:02Z",
+            "owner": "blueyed",
+            "repo": "vim-diminactive",
+            "stars": 337
+          }
+        }
+      ],
+      "title": "Interface"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fzf",
+          "description": "(highly recommended to use fd and ripgrep)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T14:44:46Z",
+            "owner": "junegunn",
+            "repo": "fzf",
+            "stars": 82549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CtrlP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-07-25T17:37:37Z",
+            "owner": "ctrlpvim",
+            "repo": "ctrlp.vim",
+            "stars": 5643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2024-03-12T02:12:15Z",
+            "owner": "mileszs",
+            "repo": "ack.vim",
+            "stars": 3082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CtrlSF",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-05-10T08:37:25Z",
+            "owner": "dyng",
+            "repo": "ctrlsf.vim",
+            "stars": 1632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Any-jump.vim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-04-08T07:20:59Z",
+            "owner": "pechorin",
+            "repo": "any-jump.vim",
+            "stars": 1129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlyGrep",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2025-11-18T02:41:33Z",
+            "owner": "wsdjeg",
+            "repo": "FlyGrep.vim",
+            "stars": 306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zoxide.vim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-08-06T20:10:03Z",
+            "owner": "nanotee",
+            "repo": "zoxide.vim",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MRU",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2024-12-29T15:03:19Z",
+            "owner": "yegappan",
+            "repo": "mru",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-codequery",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2022-10-25T16:24:45Z",
+            "owner": "devjoe",
+            "repo": "vim-codequery",
+            "stars": 194
+          }
+        }
+      ],
+      "title": "Searching"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vim-test",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-06-02T09:17:56Z",
+            "owner": "vim-test",
+            "repo": "vim-test",
+            "stars": 3164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dispatch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2024-09-02T19:34:27Z",
+            "owner": "tpope",
+            "repo": "vim-dispatch",
+            "stars": 2739
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AsyncRun",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2025-11-20T16:56:16Z",
+            "owner": "skywind3000",
+            "repo": "asyncrun.vim",
+            "stars": 1904
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AsyncTasks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-05-24T05:44:36Z",
+            "owner": "skywind3000",
+            "repo": "asynctasks.vim",
+            "stars": 938
+          }
+        }
+      ],
+      "title": "Task Running"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EasyMotion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2024-02-05T02:30:15Z",
+            "owner": "easymotion",
+            "repo": "vim-easymotion",
+            "stars": 7742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sneak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2025-12-10T05:00:30Z",
+            "owner": "justinmk",
+            "repo": "vim-sneak",
+            "stars": 3530
+          }
+        }
+      ],
+      "title": "Text Navigation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UltiSnips",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-04T16:38:19Z",
+            "owner": "SirVer",
+            "repo": "ultisnips",
+            "stars": 7696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snippets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Snippet",
+            "last_commit": "2025-10-28T14:00:35Z",
+            "owner": "honza",
+            "repo": "vim-snippets",
+            "stars": 4885
+          }
+        }
+      ],
+      "title": "Snippets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "YouCompleteMe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T15:54:44Z",
+            "owner": "ycm-core",
+            "repo": "YouCompleteMe",
+            "stars": 25910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T18:55:55Z",
+            "owner": "neoclide",
+            "repo": "coc.nvim",
+            "stars": 25172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asynchronous Lint Engine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-08-09T10:26:28Z",
+            "owner": "dense-analysis",
+            "repo": "ale",
+            "stars": 14015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Syntastic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vim script",
+            "last_commit": "2022-07-10T12:58:50Z",
+            "owner": "vim-syntastic",
+            "repo": "syntastic",
+            "stars": 11221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neocomplete",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2023-05-18T09:47:35Z",
+            "owner": "Shougo",
+            "repo": "neocomplete.vim",
+            "stars": 2723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TmuxComplete",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2022-08-12T15:05:01Z",
+            "owner": "wellle",
+            "repo": "tmux-complete.vim",
+            "stars": 521
+          }
+        }
+      ],
+      "title": "Syntax/Completion"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Polyglot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2025-08-27T17:10:22Z",
+            "owner": "vim-polyglot",
+            "repo": "vim-polyglot",
+            "stars": 5714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Codi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2023-02-28T15:46:33Z",
+            "owner": "metakirby5",
+            "repo": "codi.vim",
+            "stars": 3064
+          }
+        }
+      ],
+      "title": "Language Specific"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MatchTagAlways",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-03-28T19:17:23Z",
+            "owner": "Valloric",
+            "repo": "MatchTagAlways",
+            "stars": 536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-ionic2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2017-05-25T10:59:39Z",
+            "owner": "akz92",
+            "repo": "vim-ionic2",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "HTML"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vim-instant-markdown",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-07-23T18:50:18Z",
+            "owner": "instant-markdown",
+            "repo": "vim-instant-markdown",
+            "stars": 2751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-markdown-toc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2025-10-09T02:47:16Z",
+            "owner": "mzlogin",
+            "repo": "vim-markdown-toc",
+            "stars": 628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mkdx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-05-10T10:26:08Z",
+            "owner": "SidOfc",
+            "repo": "mkdx",
+            "stars": 489
+          }
+        }
+      ],
+      "title": "Markdown"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Framework Specific"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pony",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2018-06-24T13:45:32Z",
+            "owner": "jmcomets",
+            "repo": "vim-pony",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htmldjango autocomplete",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2017-06-09T12:22:23Z",
+            "owner": "mjbrownie",
+            "repo": "vim-htmldjango_omnicomplete",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Django"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LazyVim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-02T15:27:57Z",
+            "owner": "LazyVim",
+            "repo": "LazyVim",
+            "stars": 27149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spacevim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vim Script",
+            "last_commit": "2025-02-17T14:14:00Z",
+            "owner": "wsdjeg",
+            "repo": "SpaceVim",
+            "stars": 20224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LunarVim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-06-05T15:05:30Z",
+            "owner": "LunarVim",
+            "repo": "LunarVim",
+            "stars": 19277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spf13",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-06-12T05:24:58Z",
+            "owner": "spf13",
+            "repo": "spf13-vim",
+            "stars": 15484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Janus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2022-04-09T17:39:09Z",
+            "owner": "carlhuda",
+            "repo": "janus",
+            "stars": 7845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "init.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-19T02:07:57Z",
+            "owner": "Blacksuan19",
+            "repo": "init.nvim",
+            "stars": 427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2024-11-09T18:03:52Z",
+            "owner": "wolandark",
+            "repo": "wim",
+            "stars": 340
+          }
+        }
+      ],
+      "title": "Distributions"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:17:41.219Z",
+    "original_repository": "akrawchyk/awesome-vim",
+    "original_repository_sha": "153057807410d286c556dfb043ab85a2c2f2790d",
+    "enhanced_repository": "enhansome/enhansome-vim",
+    "enhanced_repository_description": null,
+    "title": "Awesome Vim with stars"
+  }
+}
