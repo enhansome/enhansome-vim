@@ -15,7 +15,7 @@
             "last_commit": "2023-12-22T22:15:38Z",
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17954
+            "stars": 17955
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2024-07-30T05:53:03Z",
             "owner": "VundleVim",
             "repo": "Vundle.vim",
-            "stars": 23926
+            "stars": 23925
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-06-29T18:23:04Z",
             "owner": "folke",
             "repo": "lazy.nvim",
-            "stars": 21449
+            "stars": 21452
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2022-08-24T17:21:16Z",
             "owner": "tpope",
             "repo": "vim-pathogen",
-            "stars": 12128
+            "stars": 12127
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-06-08T16:29:56Z",
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15694
+            "stars": 15695
           }
         },
         {
@@ -350,7 +350,7 @@
                 "last_commit": "2024-06-30T12:27:56Z",
                 "owner": "tpope",
                 "repo": "vim-surround",
-                "stars": 14095
+                "stars": 14096
               }
             },
             {
@@ -365,7 +365,7 @@
                 "last_commit": "2025-11-19T08:24:44Z",
                 "owner": "preservim",
                 "repo": "nerdcommenter",
-                "stars": 5007
+                "stars": 5006
               }
             },
             {
@@ -470,7 +470,7 @@
                 "last_commit": "2024-07-10T12:17:30Z",
                 "owner": "wellle",
                 "repo": "targets.vim",
-                "stars": 2643
+                "stars": 2642
               }
             },
             {
@@ -620,7 +620,7 @@
                 "last_commit": "2012-11-19T22:00:29Z",
                 "owner": "coderifous",
                 "repo": "textobj-word-column.vim",
-                "stars": 213
+                "stars": 212
               }
             },
             {
@@ -672,7 +672,7 @@
                 "last_commit": "2025-09-26T16:07:39Z",
                 "owner": "preservim",
                 "repo": "nerdtree",
-                "stars": 20090
+                "stars": 20088
               }
             },
             {
@@ -724,7 +724,7 @@
                 "last_commit": "2026-03-07T19:20:47Z",
                 "owner": "tpope",
                 "repo": "vim-fugitive",
-                "stars": 21759
+                "stars": 21760
               }
             },
             {
@@ -761,7 +761,7 @@
                 "last_commit": "2026-07-25T17:16:51Z",
                 "owner": "vim-airline",
                 "repo": "vim-airline",
-                "stars": 17959
+                "stars": 17958
               }
             },
             {
@@ -776,7 +776,7 @@
                 "last_commit": "2024-01-05T12:47:32Z",
                 "owner": "mhinz",
                 "repo": "vim-startify",
-                "stars": 5385
+                "stars": 5384
               }
             },
             {
@@ -858,7 +858,7 @@
                 "last_commit": "2026-08-21T04:28:14Z",
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82605
+                "stars": 82612
               }
             },
             {
@@ -873,7 +873,7 @@
                 "last_commit": "2026-07-25T17:37:37Z",
                 "owner": "ctrlpvim",
                 "repo": "ctrlp.vim",
-                "stars": 5640
+                "stars": 5639
               }
             },
             {
@@ -1030,7 +1030,7 @@
                 "last_commit": "2025-11-20T16:56:16Z",
                 "owner": "skywind3000",
                 "repo": "asyncrun.vim",
-                "stars": 1904
+                "stars": 1903
               }
             },
             {
@@ -1067,7 +1067,7 @@
                 "last_commit": "2024-02-05T02:30:15Z",
                 "owner": "easymotion",
                 "repo": "vim-easymotion",
-                "stars": 7747
+                "stars": 7746
               }
             },
             {
@@ -1119,7 +1119,7 @@
                 "last_commit": "2025-10-28T14:00:35Z",
                 "owner": "honza",
                 "repo": "vim-snippets",
-                "stars": 4884
+                "stars": 4883
               }
             }
           ],
@@ -1138,7 +1138,7 @@
                 "archived": false,
                 "id": 4037197,
                 "language": "Python",
-                "last_commit": "2026-08-17T04:26:18Z",
+                "last_commit": "2026-08-22T16:06:07Z",
                 "owner": "ycm-core",
                 "repo": "YouCompleteMe",
                 "stars": 25894
@@ -1153,10 +1153,10 @@
                 "archived": false,
                 "id": 131770422,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T16:07:45Z",
+                "last_commit": "2026-08-22T16:04:31Z",
                 "owner": "neoclide",
                 "repo": "coc.nvim",
-                "stars": 25174
+                "stars": 25172
               }
             },
             {
@@ -1186,7 +1186,7 @@
                 "last_commit": "2022-07-10T12:58:50Z",
                 "owner": "vim-syntastic",
                 "repo": "syntastic",
-                "stars": 11218
+                "stars": 11216
               }
             },
             {
@@ -1242,7 +1242,7 @@
             "last_commit": "2025-08-27T17:10:22Z",
             "owner": "vim-polyglot",
             "repo": "vim-polyglot",
-            "stars": 5715
+            "stars": 5714
           }
         },
         {
@@ -1311,7 +1311,7 @@
                 "last_commit": "2026-07-23T18:50:18Z",
                 "owner": "instant-markdown",
                 "repo": "vim-instant-markdown",
-                "stars": 2752
+                "stars": 2751
               }
             },
             {
@@ -1410,7 +1410,7 @@
             "last_commit": "2026-06-02T15:27:57Z",
             "owner": "LazyVim",
             "repo": "LazyVim",
-            "stars": 27233
+            "stars": 27248
           }
         },
         {
@@ -1425,7 +1425,7 @@
             "last_commit": "2025-02-17T14:14:00Z",
             "owner": "wsdjeg",
             "repo": "SpaceVim",
-            "stars": 20218
+            "stars": 20217
           }
         },
         {
@@ -1440,7 +1440,7 @@
             "last_commit": "2025-06-05T15:05:30Z",
             "owner": "LunarVim",
             "repo": "LunarVim",
-            "stars": 19268
+            "stars": 19269
           }
         },
         {
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T18:53:26.175Z",
+    "last_updated": "2026-08-22T18:47:13.454Z",
     "original_repository": "akrawchyk/awesome-vim",
     "original_repository_id": 22468657,
     "original_repository_sha": "153057807410d286c556dfb043ab85a2c2f2790d",
