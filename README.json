@@ -15,8 +15,9 @@
             "last_commit": "2023-12-22T22:15:38Z",
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17963
-          }
+            "stars": 17965
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "jmoon018",
             "repo": "PacVim",
             "stars": 3329
-          }
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-03T15:02:37Z",
             "owner": "dofy",
             "repo": "learn-vim",
-            "stars": 1723
-          }
+            "stars": 1724
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "dahu",
             "repo": "LearnVim",
             "stars": 420
-          }
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "openuado",
             "repo": "vimtips-fortune",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         }
       ],
       "title": "Learning Vim"
@@ -96,8 +101,9 @@
             "last_commit": "2026-05-22T13:40:34Z",
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35751
-          }
+            "stars": 35753
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -111,8 +117,9 @@
             "last_commit": "2024-07-30T05:53:03Z",
             "owner": "VundleVim",
             "repo": "Vundle.vim",
-            "stars": 23925
-          }
+            "stars": 23924
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -126,8 +133,9 @@
             "last_commit": "2026-06-29T18:23:04Z",
             "owner": "folke",
             "repo": "lazy.nvim",
-            "stars": 21470
-          }
+            "stars": 21473
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "tpope",
             "repo": "vim-pathogen",
             "stars": 12127
-          }
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -156,8 +165,9 @@
             "last_commit": "2025-09-13T00:40:44Z",
             "owner": "Shougo",
             "repo": "dein.vim",
-            "stars": 3424
-          }
+            "stars": 3423
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "Shougo",
             "repo": "neobundle.vim",
             "stars": 2282
-          }
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "MarcWeber",
             "repo": "vim-addon-manager",
             "stars": 666
-          }
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         }
       ],
       "title": "Plugin Management"
@@ -208,7 +220,8 @@
             "owner": "morhetz",
             "repo": "gruvbox",
             "stars": 15707
-          }
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "altercation",
             "repo": "vim-colors-solarized",
             "stars": 6594
-          }
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -237,8 +251,9 @@
             "last_commit": "2026-04-02T05:23:30Z",
             "owner": "joshdick",
             "repo": "onedark.vim",
-            "stars": 3997
-          }
+            "stars": 3998
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "tomasr",
             "repo": "molokai",
             "stars": 3626
-          }
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "nanotech",
             "repo": "jellybeans.vim",
             "stars": 1862
-          }
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "romainl",
             "repo": "Apprentice",
             "stars": 930
-          }
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "chriskempson",
             "repo": "base16-vim",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "blueshirts",
             "repo": "darcula",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "tek256",
             "repo": "simple-dark",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         }
       ],
       "title": "Colors"
@@ -350,8 +371,9 @@
                 "last_commit": "2024-06-30T12:27:56Z",
                 "owner": "tpope",
                 "repo": "vim-surround",
-                "stars": 14101
-              }
+                "stars": 14102
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -366,7 +388,8 @@
                 "owner": "preservim",
                 "repo": "nerdcommenter",
                 "stars": 5006
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -381,7 +404,8 @@
                 "owner": "tpope",
                 "repo": "vim-unimpaired",
                 "stars": 3464
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -396,7 +420,8 @@
                 "owner": "editorconfig",
                 "repo": "editorconfig-vim",
                 "stars": 3166
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -411,7 +436,8 @@
                 "owner": "tpope",
                 "repo": "vim-abolish",
                 "stars": 2957
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -426,7 +452,8 @@
                 "owner": "tpope",
                 "repo": "vim-repeat",
                 "stars": 2715
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -441,7 +468,8 @@
                 "owner": "godlygeek",
                 "repo": "tabular",
                 "stars": 2661
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -456,7 +484,8 @@
                 "owner": "preservim",
                 "repo": "vim-indent-guides",
                 "stars": 2653
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -471,7 +500,8 @@
                 "owner": "wellle",
                 "repo": "targets.vim",
                 "stars": 2643
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -486,7 +516,8 @@
                 "owner": "Raimondi",
                 "repo": "delimitMate",
                 "stars": 2003
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -501,7 +532,8 @@
                 "owner": "kana",
                 "repo": "vim-textobj-user",
                 "stars": 1471
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -516,7 +548,8 @@
                 "owner": "sjl",
                 "repo": "gundo.vim",
                 "stars": 1469
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -531,7 +564,8 @@
                 "owner": "tomtom",
                 "repo": "tcomment_vim",
                 "stars": 1412
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -546,7 +580,8 @@
                 "owner": "terryma",
                 "repo": "vim-expand-region",
                 "stars": 1126
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -561,7 +596,8 @@
                 "owner": "kkoomen",
                 "repo": "vim-doge",
                 "stars": 1058
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -576,7 +612,8 @@
                 "owner": "wesQ3",
                 "repo": "vim-windowswap",
                 "stars": 466
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -591,7 +628,8 @@
                 "owner": "maxbrunsfeld",
                 "repo": "vim-yankstack",
                 "stars": 442
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -606,7 +644,8 @@
                 "owner": "wellle",
                 "repo": "visual-split.vim",
                 "stars": 226
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -621,7 +660,8 @@
                 "owner": "coderifous",
                 "repo": "textobj-word-column.vim",
                 "stars": 212
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -636,7 +676,8 @@
                 "owner": "kana",
                 "repo": "vim-textobj-indent",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -651,7 +692,8 @@
                 "owner": "vim-scripts",
                 "repo": "Align",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             }
           ],
           "description": null,
@@ -672,8 +714,9 @@
                 "last_commit": "2025-09-26T16:07:39Z",
                 "owner": "preservim",
                 "repo": "nerdtree",
-                "stars": 20091
-              }
+                "stars": 20092
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -688,7 +731,8 @@
                 "owner": "tpope",
                 "repo": "vim-vinegar",
                 "stars": 2348
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -702,8 +746,9 @@
                 "last_commit": "2026-07-05T11:04:57Z",
                 "owner": "justinmk",
                 "repo": "vim-dirvish",
-                "stars": 1277
-              }
+                "stars": 1278
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             }
           ],
           "description": null,
@@ -724,8 +769,9 @@
                 "last_commit": "2026-03-07T19:20:47Z",
                 "owner": "tpope",
                 "repo": "vim-fugitive",
-                "stars": 21773
-              }
+                "stars": 21774
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -740,7 +786,8 @@
                 "owner": "airblade",
                 "repo": "vim-gitgutter",
                 "stars": 8511
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             }
           ],
           "description": null,
@@ -761,8 +808,9 @@
                 "last_commit": "2026-08-27T20:43:00Z",
                 "owner": "vim-airline",
                 "repo": "vim-airline",
-                "stars": 17960
-              }
+                "stars": 17962
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -777,7 +825,8 @@
                 "owner": "mhinz",
                 "repo": "vim-startify",
                 "stars": 5386
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -792,7 +841,8 @@
                 "owner": "mhinz",
                 "repo": "vim-signify",
                 "stars": 2728
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -807,7 +857,8 @@
                 "owner": "skywind3000",
                 "repo": "vim-quickui",
                 "stars": 1175
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -822,7 +873,8 @@
                 "owner": "farmergreg",
                 "repo": "vim-lastplace",
                 "stars": 637
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -837,7 +889,8 @@
                 "owner": "blueyed",
                 "repo": "vim-diminactive",
                 "stars": 338
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             }
           ],
           "description": null,
@@ -858,8 +911,9 @@
                 "last_commit": "2026-08-26T00:07:09Z",
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82686
-              }
+                "stars": 82702
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -873,8 +927,9 @@
                 "last_commit": "2026-07-25T17:37:37Z",
                 "owner": "ctrlpvim",
                 "repo": "ctrlp.vim",
-                "stars": 5640
-              }
+                "stars": 5641
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -889,7 +944,8 @@
                 "owner": "mileszs",
                 "repo": "ack.vim",
                 "stars": 3077
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -904,7 +960,8 @@
                 "owner": "dyng",
                 "repo": "ctrlsf.vim",
                 "stars": 1632
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -918,8 +975,9 @@
                 "last_commit": "2026-04-08T07:20:59Z",
                 "owner": "pechorin",
                 "repo": "any-jump.vim",
-                "stars": 1130
-              }
+                "stars": 1131
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -934,7 +992,8 @@
                 "owner": "wsdjeg",
                 "repo": "FlyGrep.vim",
                 "stars": 306
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -948,8 +1007,9 @@
                 "last_commit": "2026-08-18T10:02:08Z",
                 "owner": "nanotee",
                 "repo": "zoxide.vim",
-                "stars": 277
-              }
+                "stars": 279
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -964,7 +1024,8 @@
                 "owner": "yegappan",
                 "repo": "mru",
                 "stars": 270
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -979,7 +1040,8 @@
                 "owner": "devjoe",
                 "repo": "vim-codequery",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             }
           ],
           "description": null,
@@ -1001,7 +1063,8 @@
                 "owner": "vim-test",
                 "repo": "vim-test",
                 "stars": 3166
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -1016,7 +1079,8 @@
                 "owner": "tpope",
                 "repo": "vim-dispatch",
                 "stars": 2739
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -1031,7 +1095,8 @@
                 "owner": "skywind3000",
                 "repo": "asyncrun.vim",
                 "stars": 1904
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -1046,7 +1111,8 @@
                 "owner": "skywind3000",
                 "repo": "asynctasks.vim",
                 "stars": 939
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             }
           ],
           "description": null,
@@ -1067,8 +1133,9 @@
                 "last_commit": "2024-02-05T02:30:15Z",
                 "owner": "easymotion",
                 "repo": "vim-easymotion",
-                "stars": 7746
-              }
+                "stars": 7747
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -1082,8 +1149,9 @@
                 "last_commit": "2025-12-10T05:00:30Z",
                 "owner": "justinmk",
                 "repo": "vim-sneak",
-                "stars": 3531
-              }
+                "stars": 3533
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             }
           ],
           "description": null,
@@ -1105,7 +1173,8 @@
                 "owner": "SirVer",
                 "repo": "ultisnips",
                 "stars": 7699
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -1120,7 +1189,8 @@
                 "owner": "honza",
                 "repo": "vim-snippets",
                 "stars": 4883
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             }
           ],
           "description": null,
@@ -1142,7 +1212,8 @@
                 "owner": "ycm-core",
                 "repo": "YouCompleteMe",
                 "stars": 25896
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -1153,11 +1224,12 @@
                 "archived": false,
                 "id": 131770422,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:32:40Z",
+                "last_commit": "2026-08-28T20:00:43Z",
                 "owner": "neoclide",
                 "repo": "coc.nvim",
                 "stars": 25167
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -1171,8 +1243,9 @@
                 "last_commit": "2026-08-21T02:38:28Z",
                 "owner": "dense-analysis",
                 "repo": "ale",
-                "stars": 14017
-              }
+                "stars": 14018
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -1187,7 +1260,8 @@
                 "owner": "vim-syntastic",
                 "repo": "syntastic",
                 "stars": 11217
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -1202,7 +1276,8 @@
                 "owner": "Shougo",
                 "repo": "neocomplete.vim",
                 "stars": 2722
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -1217,7 +1292,8 @@
                 "owner": "wellle",
                 "repo": "tmux-complete.vim",
                 "stars": 521
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             }
           ],
           "description": null,
@@ -1242,8 +1318,9 @@
             "last_commit": "2025-08-27T17:10:22Z",
             "owner": "vim-polyglot",
             "repo": "vim-polyglot",
-            "stars": 5712
-          }
+            "stars": 5713
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -1258,7 +1335,8 @@
             "owner": "metakirby5",
             "repo": "codi.vim",
             "stars": 3063
-          }
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "children": [
@@ -1275,7 +1353,8 @@
                 "owner": "fatih",
                 "repo": "vim-go",
                 "stars": 16216
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             }
           ],
           "description": null,
@@ -1297,7 +1376,8 @@
                 "owner": "Valloric",
                 "repo": "MatchTagAlways",
                 "stars": 536
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -1312,7 +1392,8 @@
                 "owner": "akz92",
                 "repo": "vim-ionic2",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             }
           ],
           "description": null,
@@ -1334,7 +1415,8 @@
                 "owner": "othree",
                 "repo": "javascript-libraries-syntax.vim",
                 "stars": 616
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             }
           ],
           "description": null,
@@ -1356,7 +1438,8 @@
                 "owner": "instant-markdown",
                 "repo": "vim-instant-markdown",
                 "stars": 2752
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -1371,7 +1454,8 @@
                 "owner": "mzlogin",
                 "repo": "vim-markdown-toc",
                 "stars": 628
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -1386,7 +1470,8 @@
                 "owner": "SidOfc",
                 "repo": "mkdx",
                 "stars": 489
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             }
           ],
           "description": null,
@@ -1408,7 +1493,8 @@
                 "owner": "tobyS",
                 "repo": "pdv",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             }
           ],
           "description": null,
@@ -1429,8 +1515,9 @@
                 "last_commit": "2026-05-24T01:39:48Z",
                 "owner": "python-mode",
                 "repo": "python-mode",
-                "stars": 5464
-              }
+                "stars": 5465
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             }
           ],
           "description": null,
@@ -1452,7 +1539,8 @@
                 "owner": "tpope",
                 "repo": "vim-endwise",
                 "stars": 1167
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             }
           ],
           "description": null,
@@ -1474,7 +1562,8 @@
                 "owner": "kezhenxu94",
                 "repo": "vim-mysql-plugin",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             }
           ],
           "description": null,
@@ -1496,7 +1585,8 @@
                 "owner": "sukima",
                 "repo": "xmledit",
                 "stars": 255
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             }
           ],
           "description": null,
@@ -1524,7 +1614,8 @@
                 "owner": "jmcomets",
                 "repo": "vim-pony",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             },
             {
               "node_type": "item",
@@ -1539,7 +1630,8 @@
                 "owner": "mjbrownie",
                 "repo": "vim-htmldjango_omnicomplete",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             }
           ],
           "description": null,
@@ -1561,7 +1653,8 @@
                 "owner": "tpope",
                 "repo": "vim-rails",
                 "stars": 4151
-              }
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
             }
           ],
           "description": null,
@@ -1586,8 +1679,9 @@
             "last_commit": "2026-06-02T15:27:57Z",
             "owner": "LazyVim",
             "repo": "LazyVim",
-            "stars": 27301
-          }
+            "stars": 27304
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -1602,7 +1696,8 @@
             "owner": "wsdjeg",
             "repo": "SpaceVim",
             "stars": 20216
-          }
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -1617,7 +1712,8 @@
             "owner": "LunarVim",
             "repo": "LunarVim",
             "stars": 19273
-          }
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -1632,7 +1728,8 @@
             "owner": "spf13",
             "repo": "spf13-vim",
             "stars": 15482
-          }
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -1647,7 +1744,8 @@
             "owner": "carlhuda",
             "repo": "janus",
             "stars": 7845
-          }
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -1662,7 +1760,8 @@
             "owner": "Blacksuan19",
             "repo": "init.nvim",
             "stars": 427
-          }
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         },
         {
           "node_type": "item",
@@ -1677,7 +1776,8 @@
             "owner": "wolandark",
             "repo": "wim",
             "stars": 340
-          }
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         }
       ],
       "title": "Distributions"
@@ -1697,8 +1797,9 @@
             "last_commit": "2025-06-06T18:42:55Z",
             "owner": "akrawchyk",
             "repo": "awesome-vim",
-            "stars": 2128
-          }
+            "stars": 2129
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         }
       ],
       "title": "Contributing"
@@ -1718,15 +1819,16 @@
             "last_commit": "2025-06-06T18:42:55Z",
             "owner": "akrawchyk",
             "repo": "awesome-vim",
-            "stars": 2128
-          }
+            "stars": 2129
+          },
+          "first_seen": "2026-08-29T01:44:06.082Z"
         }
       ],
       "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:09:28.510Z",
+    "last_updated": "2026-08-29T01:44:06.082Z",
     "original_repository_info": {
       "archived": false,
       "id": 22468657,
@@ -1734,7 +1836,7 @@
       "last_commit": "2025-06-06T18:42:55Z",
       "owner": "akrawchyk",
       "repo": "awesome-vim",
-      "stars": 2128
+      "stars": 2129
     },
     "original_repository_sha": "153057807410d286c556dfb043ab85a2c2f2790d",
     "enhanced_repository": "enhansome/enhansome-vim",
