@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17965,
+            "stars": 17967,
             "topics": [
               "awesome",
               "awesome-list",
@@ -73,7 +73,7 @@
             "open_issues": 0,
             "owner": "dofy",
             "repo": "learn-vim",
-            "stars": 1724,
+            "stars": 1726,
             "topics": [
               "beginner",
               "book",
@@ -154,7 +154,7 @@
             "open_issues": 86,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35753,
+            "stars": 35751,
             "topics": [
               "vim"
             ]
@@ -177,7 +177,7 @@
             "open_issues": 204,
             "owner": "VundleVim",
             "repo": "Vundle.vim",
-            "stars": 23924,
+            "stars": 23925,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
@@ -198,7 +198,7 @@
             "open_issues": 66,
             "owner": "folke",
             "repo": "lazy.nvim",
-            "stars": 21474,
+            "stars": 21481,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -320,7 +320,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15707,
+            "stars": 15711,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
@@ -1040,7 +1040,7 @@
                 "open_issues": 39,
                 "owner": "preservim",
                 "repo": "nerdtree",
-                "stars": 20092,
+                "stars": 20093,
                 "topics": [
                   "file-management",
                   "file-manager",
@@ -1125,7 +1125,7 @@
                 "open_issues": 137,
                 "owner": "tpope",
                 "repo": "vim-fugitive",
-                "stars": 21774,
+                "stars": 21775,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
@@ -1146,7 +1146,7 @@
                 "open_issues": 2,
                 "owner": "airblade",
                 "repo": "vim-gitgutter",
-                "stars": 8511,
+                "stars": 8512,
                 "topics": [
                   "diff",
                   "git",
@@ -1382,7 +1382,7 @@
                 "open_issues": 327,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82702,
+                "stars": 82716,
                 "topics": [
                   "bash",
                   "cli",
@@ -1414,7 +1414,7 @@
                 "open_issues": 198,
                 "owner": "ctrlpvim",
                 "repo": "ctrlp.vim",
-                "stars": 5641,
+                "stars": 5642,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
@@ -1920,7 +1920,7 @@
                 "language": "Vim Script",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-08-21T02:38:28Z",
-                "open_issues": 587,
+                "open_issues": 588,
                 "owner": "dense-analysis",
                 "repo": "ale",
                 "stars": 14018,
@@ -2105,7 +2105,7 @@
                 "open_issues": 44,
                 "owner": "fatih",
                 "repo": "vim-go",
-                "stars": 16218,
+                "stars": 16219,
                 "topics": [
                   "go",
                   "golang",
@@ -2549,7 +2549,7 @@
             "open_issues": 78,
             "owner": "LazyVim",
             "repo": "LazyVim",
-            "stars": 27305,
+            "stars": 27309,
             "topics": [
               "neovim",
               "neovim-conf",
@@ -2795,7 +2795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:28:14.409Z",
+    "last_updated": "2026-08-29T20:52:57.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "The Vim plugin shortlist",
