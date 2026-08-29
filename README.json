@@ -10,12 +10,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":mortar_board: All things Vim!",
+            "homepage": null,
             "id": 49010787,
             "language": "Vim script",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2023-12-22T22:15:38Z",
+            "open_issues": 13,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17965
+            "stars": 17965,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "guide",
+              "help",
+              "learn",
+              "neovim",
+              "tips",
+              "tricks",
+              "vim",
+              "vim-scripts",
+              "viml"
+            ]
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -26,12 +43,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 26992831,
             "language": "C++",
+            "license": "LGPL-3.0",
             "last_commit": "2024-03-23T18:15:25Z",
+            "open_issues": 22,
             "owner": "jmoon018",
             "repo": "PacVim",
-            "stars": 3329
+            "stars": 3329,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -42,12 +64,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning Vim. A Hands-On Tutorial of Vim.",
+            "homepage": "https://dofy.gitbook.io/learn-vim/",
             "id": 49559619,
             "language": "TypeScript",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-03T15:02:37Z",
+            "open_issues": 0,
             "owner": "dofy",
             "repo": "learn-vim",
-            "stars": 1724
+            "stars": 1724,
+            "topics": [
+              "beginner",
+              "book",
+              "chinese",
+              "editor",
+              "education",
+              "learning",
+              "programming",
+              "tips",
+              "tutorial",
+              "vi",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -58,12 +97,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Suggested Path for Learning Vim",
+            "homepage": null,
             "id": 794675,
             "language": null,
+            "license": null,
             "last_commit": "2020-05-27T21:02:13Z",
+            "open_issues": 2,
             "owner": "dahu",
             "repo": "LearnVim",
-            "stars": 420
+            "stars": 420,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -74,12 +118,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A vimtips to fortune software.",
+            "homepage": null,
             "id": 4139421,
             "language": "VimL",
+            "license": null,
             "last_commit": "2016-08-24T19:58:29Z",
+            "open_issues": 2,
             "owner": "openuado",
             "repo": "vimtips-fortune",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         }
@@ -96,12 +145,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":hibiscus: Minimalist Vim Plugin Manager",
+            "homepage": "https://junegunn.github.io/vim-plug/",
             "id": 12732573,
             "language": "Vim Script",
+            "license": "MIT",
             "last_commit": "2026-05-22T13:40:34Z",
+            "open_issues": 86,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35753
+            "stars": 35753,
+            "topics": [
+              "vim"
+            ]
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -112,12 +168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vundle, the plug-in manager for Vim",
+            "homepage": "http://github.com/VundleVim/Vundle.Vim",
             "id": 995750,
             "language": "Vim Script",
+            "license": "MIT",
             "last_commit": "2024-07-30T05:53:03Z",
+            "open_issues": 204,
             "owner": "VundleVim",
             "repo": "Vundle.vim",
-            "stars": 23924
+            "stars": 23924,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -128,12 +189,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💤 A modern plugin manager for Neovim",
+            "homepage": "https://lazy.folke.io/",
             "id": 568549346,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-29T18:23:04Z",
+            "open_issues": 66,
             "owner": "folke",
             "repo": "lazy.nvim",
-            "stars": 21473
+            "stars": 21474,
+            "topics": [
+              "neovim",
+              "neovim-plugin",
+              "nvim",
+              "package-manager",
+              "plugin-manager"
+            ]
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -144,12 +216,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pathogen.vim: manage your runtimepath",
+            "homepage": "http://www.vim.org/scripts/script.php?script_id=2332",
             "id": 434430,
             "language": "Vim Script",
+            "license": "Vim",
             "last_commit": "2022-08-24T17:21:16Z",
+            "open_issues": 27,
             "owner": "tpope",
             "repo": "vim-pathogen",
-            "stars": 12127
+            "stars": 12127,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -160,12 +237,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":zap: Dark powered Vim/Neovim plugin manager",
+            "homepage": null,
             "id": 48877251,
             "language": "Vim Script",
+            "license": "MIT",
             "last_commit": "2025-09-13T00:40:44Z",
+            "open_issues": 2,
             "owner": "Shougo",
             "repo": "dein.vim",
-            "stars": 3423
+            "stars": 3423,
+            "topics": [
+              "dein",
+              "neovim",
+              "plugin-manager",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -176,12 +263,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next generation Vim package manager",
+            "homepage": null,
             "id": 2403263,
             "language": "Vim script",
+            "license": "MIT",
             "last_commit": "2018-07-26T00:04:32Z",
+            "open_issues": 0,
             "owner": "Shougo",
             "repo": "neobundle.vim",
-            "stars": 2282
+            "stars": 2282,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -192,12 +284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "manage and install vim plugins (including their dependencies) in a sane way. If you have any trouble contact me. Usually I reply within 24 hours",
+            "homepage": null,
             "id": 449810,
             "language": "Vim Script",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-09T15:32:56Z",
+            "open_issues": 32,
             "owner": "MarcWeber",
             "repo": "vim-addon-manager",
-            "stars": 666
+            "stars": 666,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         }
@@ -214,12 +311,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Retro groove color scheme for Vim",
+            "homepage": null,
             "id": 6893638,
             "language": "Vim Script",
+            "license": null,
             "last_commit": "2026-06-08T16:29:56Z",
+            "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15707
+            "stars": 15707,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -230,12 +332,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "precision colorscheme for the vim text editor",
+            "homepage": "http://ethanschoonover.com/solarized",
             "id": 1381275,
             "language": "VimL",
+            "license": null,
             "last_commit": "2024-04-10T14:44:21Z",
+            "open_issues": 133,
             "owner": "altercation",
             "repo": "vim-colors-solarized",
-            "stars": 6594
+            "stars": 6594,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -246,12 +353,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.",
+            "homepage": null,
             "id": 44947263,
             "language": "Vim Script",
+            "license": "MIT",
             "last_commit": "2026-04-02T05:23:30Z",
+            "open_issues": 29,
             "owner": "joshdick",
             "repo": "onedark.vim",
-            "stars": 3998
+            "stars": 3998,
+            "topics": [
+              "colorscheme",
+              "dark-syntax-theme",
+              "lightline",
+              "vim",
+              "vim-airline",
+              "vim-colorscheme"
+            ]
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -262,12 +381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Molokai color scheme for Vim",
+            "homepage": null,
             "id": 1361963,
             "language": "VimL",
+            "license": "NOASSERTION",
             "last_commit": "2022-10-27T16:47:30Z",
+            "open_issues": 36,
             "owner": "tomasr",
             "repo": "molokai",
-            "stars": 3626
+            "stars": 3626,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -278,12 +402,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A colorful, dark color scheme for Vim.",
+            "homepage": "http://www.vim.org/scripts/script.php?script_id=2555",
             "id": 137861,
             "language": "Vim script",
+            "license": null,
             "last_commit": "2020-09-30T16:09:27Z",
+            "open_issues": 13,
             "owner": "nanotech",
             "repo": "jellybeans.vim",
-            "stars": 1862
+            "stars": 1862,
+            "topics": [
+              "colorscheme",
+              "vim",
+              "vim-colorscheme",
+              "vim-colorschemes"
+            ]
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -294,12 +428,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dark, low-contrast, Vim colorscheme.",
+            "homepage": "http://romainl.github.io/Apprentice/",
             "id": 18118837,
             "language": "Vim Script",
+            "license": "MIT",
             "last_commit": "2025-07-14T06:06:25Z",
+            "open_issues": 1,
             "owner": "romainl",
             "repo": "Apprentice",
-            "stars": 930
+            "stars": 930,
+            "topics": [
+              "apprentice",
+              "colorscheme",
+              "vim",
+              "vim-plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -310,12 +454,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Base16 for Vim",
+            "homepage": "https://github.com/chriskempson/base16",
             "id": 5619458,
             "language": "Vim Script",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-08T15:54:08Z",
+            "open_issues": 53,
             "owner": "chriskempson",
             "repo": "base16-vim",
-            "stars": 171
+            "stars": 171,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -326,12 +475,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VIM Darcula Theme",
+            "homepage": null,
             "id": 27905779,
             "language": "Vim script",
+            "license": "MIT",
             "last_commit": "2018-05-23T22:03:50Z",
+            "open_issues": 0,
             "owner": "blueshirts",
             "repo": "darcula",
-            "stars": 167
+            "stars": 167,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -342,12 +496,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a simple dark grayscale theme for many editors!",
+            "homepage": null,
             "id": 219996733,
             "language": "Emacs Lisp",
+            "license": "MIT",
             "last_commit": "2026-07-05T05:24:13Z",
+            "open_issues": 0,
             "owner": "tek256",
             "repo": "simple-dark",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "alacritty-theme",
+              "emacs-theme",
+              "ghostty-theme",
+              "kitty-themes",
+              "vim-theme",
+              "vscode-theme"
+            ]
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         }
@@ -366,12 +532,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease",
+                "homepage": "https://www.vim.org/scripts/script.php?script_id=1697",
                 "id": 51480,
                 "language": "Vim Script",
+                "license": null,
                 "last_commit": "2024-06-30T12:27:56Z",
+                "open_issues": 140,
                 "owner": "tpope",
                 "repo": "vim-surround",
-                "stars": 14102
+                "stars": 14102,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -382,12 +553,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vim plugin for intensely nerdy commenting powers",
+                "homepage": null,
                 "id": 3287,
                 "language": "Vim Script",
+                "license": "CC0-1.0",
                 "last_commit": "2025-11-19T08:24:44Z",
+                "open_issues": 102,
                 "owner": "preservim",
                 "repo": "nerdcommenter",
-                "stars": 5006
+                "stars": 5006,
+                "topics": [
+                  "comment",
+                  "commenting",
+                  "vim",
+                  "vim-plugin",
+                  "vim-plugins"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -398,12 +580,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "unimpaired.vim: Pairs of handy bracket mappings",
+                "homepage": "https://www.vim.org/scripts/script.php?script_id=1590",
                 "id": 144099,
                 "language": "Vim Script",
+                "license": null,
                 "last_commit": "2025-08-16T16:51:54Z",
+                "open_issues": 56,
                 "owner": "tpope",
                 "repo": "vim-unimpaired",
-                "stars": 3464
+                "stars": 3464,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -414,12 +601,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EditorConfig plugin for Vim",
+                "homepage": "http://editorconfig.org",
                 "id": 2571129,
                 "language": "Vim Script",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-16T00:41:14Z",
+                "open_issues": 43,
                 "owner": "editorconfig",
                 "repo": "editorconfig-vim",
-                "stars": 3166
+                "stars": 3166,
+                "topics": [
+                  "editorconfig",
+                  "editorconfig-plugin",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -430,12 +626,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "abolish.vim: Work with several variants of a word at once",
+                "homepage": "https://www.vim.org/scripts/script.php?script_id=1545",
                 "id": 39370,
                 "language": "Vim Script",
+                "license": null,
                 "last_commit": "2024-08-07T21:16:02Z",
+                "open_issues": 38,
                 "owner": "tpope",
                 "repo": "vim-abolish",
-                "stars": 2957
+                "stars": 2957,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -446,12 +647,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "repeat.vim: enable repeating supported plugin maps with \".\"",
+                "homepage": "http://www.vim.org/scripts/script.php?script_id=2136",
                 "id": 434142,
                 "language": "Vim Script",
+                "license": null,
                 "last_commit": "2024-07-08T21:28:41Z",
+                "open_issues": 30,
                 "owner": "tpope",
                 "repo": "vim-repeat",
-                "stars": 2715
+                "stars": 2716,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -462,12 +668,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vim script for text filtering and alignment",
+                "homepage": null,
                 "id": 141752,
                 "language": "Vim Script",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-03T16:03:39Z",
+                "open_issues": 30,
                 "owner": "godlygeek",
                 "repo": "tabular",
-                "stars": 2661
+                "stars": 2661,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -478,12 +689,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Vim plugin for visually displaying indent levels in code",
+                "homepage": null,
                 "id": 1139610,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2023-06-14T16:40:10Z",
+                "open_issues": 46,
                 "owner": "preservim",
                 "repo": "vim-indent-guides",
-                "stars": 2653
+                "stars": 2653,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -494,12 +710,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vim plugin that provides additional text objects",
+                "homepage": null,
                 "id": 16419904,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2024-07-10T12:17:30Z",
+                "open_issues": 58,
                 "owner": "wellle",
                 "repo": "targets.vim",
-                "stars": 2643
+                "stars": 2643,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin",
+                  "text-object",
+                  "text-objects",
+                  "vim",
+                  "vim-plugin",
+                  "vim-plugins"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -510,12 +739,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.",
+                "homepage": "http://www.vim.org/scripts/script.php?script_id=2754",
                 "id": 283234,
                 "language": "Vim Script",
+                "license": null,
                 "last_commit": "2024-08-06T06:02:38Z",
+                "open_issues": 49,
                 "owner": "Raimondi",
                 "repo": "delimitMate",
-                "stars": 2003
+                "stars": 2003,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -526,12 +760,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vim plugin: Create your own text objects",
+                "homepage": "http://www.vim.org/scripts/script.php?script_id=2100",
                 "id": 575670,
                 "language": "Vim script",
+                "license": null,
                 "last_commit": "2020-02-21T09:29:25Z",
+                "open_issues": 22,
                 "owner": "kana",
                 "repo": "vim-textobj-user",
-                "stars": 1471
+                "stars": 1471,
+                "topics": [
+                  "vim",
+                  "vim-plugins",
+                  "vim-textobj-user"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -542,12 +785,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A git mirror of gundo.vim",
+                "homepage": "http://sjl.bitbucket.org/gundo.vim/",
                 "id": 974769,
                 "language": "Vim script",
+                "license": null,
                 "last_commit": "2022-01-29T14:56:29Z",
+                "open_issues": 3,
                 "owner": "sjl",
                 "repo": "gundo.vim",
-                "stars": 1469
+                "stars": 1469,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -558,12 +806,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An extensible & universal comment vim-plugin that also handles embedded filetypes",
+                "homepage": "http://www.vim.org/scripts/script.php?script_id=1173",
                 "id": 841033,
                 "language": "Vim Script",
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-25T10:36:44Z",
+                "open_issues": 35,
                 "owner": "tomtom",
                 "repo": "tcomment_vim",
-                "stars": 1412
+                "stars": 1412,
+                "topics": [
+                  "vim",
+                  "vim-plugin"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -574,12 +830,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vim plugin that allows you to visually select increasingly larger regions of text using the same key combination.",
+                "homepage": null,
                 "id": 9115072,
                 "language": "VimL",
+                "license": "MIT",
                 "last_commit": "2024-06-28T01:56:54Z",
+                "open_issues": 15,
                 "owner": "terryma",
                 "repo": "vim-expand-region",
-                "stars": 1126
+                "stars": 1126,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -590,12 +851,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(Do)cumentation (Ge)nerator for nearly 20 languages 📚 Generate proper code documentation with a single keypress. ⚡️🔥",
+                "homepage": null,
                 "id": 183955081,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-13T14:05:14Z",
+                "open_issues": 18,
                 "owner": "kkoomen",
                 "repo": "vim-doge",
-                "stars": 1058
+                "stars": 1058,
+                "topics": [
+                  "boilerplate",
+                  "docblock",
+                  "documentation",
+                  "doge",
+                  "fast",
+                  "generator",
+                  "instant",
+                  "languages",
+                  "multilingual",
+                  "neovim",
+                  "polyglot",
+                  "skeleton",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -606,12 +886,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swap your windows without ruining your layout",
+                "homepage": null,
                 "id": 13054219,
                 "language": "Vim script",
+                "license": null,
                 "last_commit": "2019-10-23T13:25:24Z",
+                "open_issues": 5,
                 "owner": "wesQ3",
                 "repo": "vim-windowswap",
-                "stars": 466
+                "stars": 466,
+                "topics": [
+                  "editor-plugin",
+                  "vim",
+                  "vim-plugin"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -622,12 +911,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight implementation of emacs's kill-ring for vim",
+                "homepage": null,
                 "id": 2442202,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2024-01-27T22:53:38Z",
+                "open_issues": 18,
                 "owner": "maxbrunsfeld",
                 "repo": "vim-yankstack",
-                "stars": 442
+                "stars": 442,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -638,12 +932,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vim plugin to control splits with visual selections or text objects",
+                "homepage": null,
                 "id": 47925344,
                 "language": "Vim script",
+                "license": "MIT",
                 "last_commit": "2017-01-29T17:21:45Z",
+                "open_issues": 1,
                 "owner": "wellle",
                 "repo": "visual-split.vim",
-                "stars": 226
+                "stars": 226,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin",
+                  "vim",
+                  "vim-plugin",
+                  "vim-plugins",
+                  "vim-window",
+                  "visual-selections"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -654,12 +961,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adds text-objects for word-based columns in Vim.",
+                "homepage": null,
                 "id": 5095333,
                 "language": "VimL",
+                "license": null,
                 "last_commit": "2012-11-19T22:00:29Z",
+                "open_issues": 3,
                 "owner": "coderifous",
                 "repo": "textobj-word-column.vim",
-                "stars": 212
+                "stars": 212,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -670,12 +982,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vim plugin: Text objects for indented blocks of lines",
+                "homepage": "http://www.vim.org/scripts/script.php?script_id=2484",
                 "id": 582954,
                 "language": "VimL",
+                "license": null,
                 "last_commit": "2020-12-04T21:45:45Z",
+                "open_issues": 4,
                 "owner": "kana",
                 "repo": "vim-textobj-indent",
-                "stars": 169
+                "stars": 169,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -686,12 +1003,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Help folks to align text, eqns, declarations, tables, etc",
+                "homepage": "http://www.vim.org/scripts/script.php?script_id=294",
                 "id": 998144,
                 "language": "VimL",
+                "license": null,
                 "last_commit": "2013-04-01T02:33:25Z",
+                "open_issues": 2,
                 "owner": "vim-scripts",
                 "repo": "Align",
-                "stars": 134
+                "stars": 134,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             }
@@ -709,12 +1031,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tree explorer plugin for vim.",
+                "homepage": null,
                 "id": 3282,
                 "language": "Vim Script",
+                "license": "WTFPL",
                 "last_commit": "2025-09-26T16:07:39Z",
+                "open_issues": 39,
                 "owner": "preservim",
                 "repo": "nerdtree",
-                "stars": 20092
+                "stars": 20092,
+                "topics": [
+                  "file-management",
+                  "file-manager",
+                  "vim",
+                  "vim-plugin",
+                  "vim-plugins"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -725,12 +1058,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "vinegar.vim: Combine with netrw to create a delicious salad dressing",
+                "homepage": "https://www.vim.org/scripts/script.php?script_id=5671",
                 "id": 15421939,
                 "language": "Vim script",
+                "license": null,
                 "last_commit": "2024-06-28T23:22:40Z",
+                "open_issues": 33,
                 "owner": "tpope",
                 "repo": "vim-vinegar",
-                "stars": 2348
+                "stars": 2348,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -741,12 +1079,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Directory viewer for Vim :zap: netrW => netrL",
+                "homepage": null,
                 "id": 31054916,
                 "language": "Vim Script",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-05T11:04:57Z",
+                "open_issues": 19,
                 "owner": "justinmk",
                 "repo": "vim-dirvish",
-                "stars": 1278
+                "stars": 1278,
+                "topics": [
+                  "directory-browser",
+                  "neovim",
+                  "neovim-plugin",
+                  "nvim",
+                  "plugin",
+                  "vim",
+                  "vim-plugin",
+                  "viml"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             }
@@ -764,12 +1116,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
+                "homepage": "https://www.vim.org/scripts/script.php?script_id=2975",
                 "id": 331603,
                 "language": "Vim Script",
+                "license": null,
                 "last_commit": "2026-03-07T19:20:47Z",
+                "open_issues": 137,
                 "owner": "tpope",
                 "repo": "vim-fugitive",
-                "stars": 21774
+                "stars": 21774,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -780,12 +1137,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.",
+                "homepage": null,
                 "id": 8310356,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2026-07-21T11:08:11Z",
+                "open_issues": 2,
                 "owner": "airblade",
                 "repo": "vim-gitgutter",
-                "stars": 8511
+                "stars": 8511,
+                "topics": [
+                  "diff",
+                  "git",
+                  "gitgutter",
+                  "neovim",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             }
@@ -803,12 +1171,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "lean & mean status/tabline for vim that's light as air",
+                "homepage": null,
                 "id": 11075527,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2026-08-27T20:43:00Z",
+                "open_issues": 37,
                 "owner": "vim-airline",
                 "repo": "vim-airline",
-                "stars": 17962
+                "stars": 17962,
+                "topics": [
+                  "statusline",
+                  "tabline",
+                  "vim",
+                  "vim-airline",
+                  "vim-plugin"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -819,12 +1198,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":link: The fancy start screen for Vim.",
+                "homepage": null,
                 "id": 9625333,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2024-01-05T12:47:32Z",
+                "open_issues": 80,
                 "owner": "mhinz",
                 "repo": "vim-startify",
-                "stars": 5386
+                "stars": 5386,
+                "topics": [
+                  "hacktoberfest",
+                  "neovim",
+                  "start",
+                  "startup",
+                  "vim",
+                  "vim-plugin",
+                  "vim-scripts",
+                  "viml"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -835,12 +1228,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":heavy_plus_sign: Show a diff using Vim its sign column.",
+                "homepage": null,
                 "id": 8586494,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2026-03-12T14:24:49Z",
+                "open_issues": 13,
                 "owner": "mhinz",
                 "repo": "vim-signify",
-                "stars": 2728
+                "stars": 2728,
+                "topics": [
+                  "accurev",
+                  "async",
+                  "bazaar",
+                  "cvs",
+                  "darcs",
+                  "fossil-scm",
+                  "git",
+                  "mercurial",
+                  "neovim",
+                  "perforce",
+                  "rcs",
+                  "signs",
+                  "subversion",
+                  "tfs",
+                  "vcs",
+                  "vim",
+                  "vim-plugin"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -851,12 +1267,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The missing UI extensions for Vim 9 (and NeoVim) !! :sunglasses:",
+                "homepage": "https://www.vim.org/scripts/script.php?script_id=5845",
                 "id": 229702507,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2026-06-30T08:04:47Z",
+                "open_issues": 39,
                 "owner": "skywind3000",
                 "repo": "vim-quickui",
-                "stars": 1175
+                "stars": 1175,
+                "topics": [
+                  "borland",
+                  "command-line",
+                  "gui",
+                  "neovim",
+                  "neovim-plugin",
+                  "neovim-plugins",
+                  "popup",
+                  "productive",
+                  "quickui",
+                  "terminal",
+                  "text-editor",
+                  "tui",
+                  "ui-components",
+                  "vim",
+                  "vim-plugin",
+                  "vim-plugins",
+                  "vim-quickui",
+                  "vim9",
+                  "vim9-plugin",
+                  "vim9-script"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -867,12 +1309,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A vim / nvim plugin that intelligently reopens files at your last edit position.",
+                "homepage": "https://www.gregd.org/",
                 "id": 29118182,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2024-05-18T01:15:12Z",
+                "open_issues": 3,
                 "owner": "farmergreg",
                 "repo": "vim-lastplace",
-                "stars": 637
+                "stars": 637,
+                "topics": [
+                  "debian",
+                  "gvim",
+                  "lastplace",
+                  "linux",
+                  "neovim",
+                  "neovim-plugin",
+                  "plugin",
+                  "ubuntu",
+                  "vim",
+                  "vim-lastplace",
+                  "vim-plugin",
+                  "vim-plugins",
+                  "vimrc",
+                  "vimscript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -883,12 +1345,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vim plugin to dim inactive windows",
+                "homepage": null,
                 "id": 16663031,
                 "language": "Vim script",
+                "license": null,
                 "last_commit": "2021-09-25T08:18:02Z",
+                "open_issues": 14,
                 "owner": "blueyed",
                 "repo": "vim-diminactive",
-                "stars": 338
+                "stars": 338,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             }
@@ -906,12 +1373,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":cherry_blossom: A command-line fuzzy finder",
+                "homepage": "https://junegunn.github.io/fzf/",
                 "id": 13807606,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-26T00:07:09Z",
+                "open_issues": 327,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82702
+                "stars": 82702,
+                "topics": [
+                  "bash",
+                  "cli",
+                  "fish",
+                  "fzf",
+                  "go",
+                  "neovim",
+                  "tmux",
+                  "unix",
+                  "vim",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -922,12 +1405,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.",
+                "homepage": "https://ctrlpvim.github.io/ctrlp.vim",
                 "id": 22539592,
                 "language": "Vim Script",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-25T17:37:37Z",
+                "open_issues": 198,
                 "owner": "ctrlpvim",
                 "repo": "ctrlp.vim",
-                "stars": 5641
+                "stars": 5641,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -938,12 +1426,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vim plugin for the Perl module / CLI script 'ack'",
+                "homepage": null,
                 "id": 111336,
                 "language": "Vim script",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-12T02:12:15Z",
+                "open_issues": 85,
                 "owner": "mileszs",
                 "repo": "ack.vim",
-                "stars": 3077
+                "stars": 3077,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -954,12 +1447,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A text searching plugin mimics Ctrl-Shift-F on Sublime Text 2",
+                "homepage": null,
                 "id": 15614208,
                 "language": "Vim Script",
+                "license": null,
                 "last_commit": "2026-05-10T08:37:25Z",
+                "open_issues": 20,
                 "owner": "dyng",
                 "repo": "ctrlsf.vim",
-                "stars": 1632
+                "stars": 1632,
+                "topics": [
+                  "ack",
+                  "ag",
+                  "async",
+                  "grep",
+                  "neovim",
+                  "pt",
+                  "rg",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -970,12 +1477,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jump to any definition and references 👁 IDE madness without overhead 🚀",
+                "homepage": null,
                 "id": 234654984,
                 "language": "Vim Script",
+                "license": null,
                 "last_commit": "2026-04-08T07:20:59Z",
+                "open_issues": 36,
                 "owner": "pechorin",
                 "repo": "any-jump.vim",
-                "stars": 1131
+                "stars": 1131,
+                "topics": [
+                  "definitions",
+                  "ide",
+                  "nvim",
+                  "references",
+                  "ui",
+                  "vim",
+                  "viml"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -986,12 +1506,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Asynchronously fly grep in vim",
+                "homepage": null,
                 "id": 97070923,
                 "language": "Vim Script",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-18T02:41:33Z",
+                "open_issues": 0,
                 "owner": "wsdjeg",
                 "repo": "FlyGrep.vim",
-                "stars": 306
+                "stars": 306,
+                "topics": [
+                  "neovim-plugin",
+                  "spacevim"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -1002,12 +1530,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small (Neo)Vim wrapper for zoxide",
+                "homepage": null,
                 "id": 286781385,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2026-08-18T10:02:08Z",
+                "open_issues": 0,
                 "owner": "nanotee",
                 "repo": "zoxide.vim",
-                "stars": 279
+                "stars": 279,
+                "topics": [
+                  "autojump",
+                  "neovim",
+                  "vim",
+                  "z",
+                  "zoxide"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -1018,12 +1557,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Most Recently Used (MRU) Vim Plugin",
+                "homepage": null,
                 "id": 12513518,
                 "language": "Vim Script",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-29T15:03:19Z",
+                "open_issues": 10,
                 "owner": "yegappan",
                 "repo": "mru",
-                "stars": 270
+                "stars": 270,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -1034,12 +1578,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Search + Browse + Understand your code more efficiently.",
+                "homepage": null,
                 "id": 64049133,
                 "language": "Vim script",
+                "license": "MIT",
                 "last_commit": "2022-10-25T16:24:45Z",
+                "open_issues": 14,
                 "owner": "devjoe",
                 "repo": "vim-codequery",
-                "stars": 194
+                "stars": 194,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             }
@@ -1057,12 +1606,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run your tests at the speed of thought",
+                "homepage": null,
                 "id": 28048077,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2026-06-02T09:17:56Z",
+                "open_issues": 107,
                 "owner": "vim-test",
                 "repo": "vim-test",
-                "stars": 3166
+                "stars": 3166,
+                "topics": [
+                  "neovim",
+                  "tdd",
+                  "test-runner",
+                  "testing",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -1073,12 +1633,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "dispatch.vim: Asynchronous build and test dispatcher",
+                "homepage": "https://www.vim.org/scripts/script.php?script_id=4504",
                 "id": 9158101,
                 "language": "Vim Script",
+                "license": null,
                 "last_commit": "2024-09-02T19:34:27Z",
+                "open_issues": 49,
                 "owner": "tpope",
                 "repo": "vim-dispatch",
-                "stars": 2739
+                "stars": 2739,
+                "topics": [
+                  "vim",
+                  "vim-plugin",
+                  "vimscript-4504"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -1089,12 +1658,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!",
+                "homepage": "https://www.vim.org/scripts/script.php?script_id=5431",
                 "id": 66438194,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2025-11-20T16:56:16Z",
+                "open_issues": 103,
                 "owner": "skywind3000",
                 "repo": "asyncrun.vim",
-                "stars": 1904
+                "stars": 1904,
+                "topics": [
+                  "asynchronous",
+                  "asyncrun",
+                  "build",
+                  "cmake",
+                  "dispatch",
+                  "make",
+                  "neomake",
+                  "neovim",
+                  "neovim-plugin",
+                  "neovim-plugins",
+                  "nvim",
+                  "terminal",
+                  "vim",
+                  "vim-plugin",
+                  "vim-plugins",
+                  "vim8"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -1105,12 +1696,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":rocket: Modern Task System for Project Building, Testing and Deploying !!",
+                "homepage": "https://www.vim.org/scripts/script.php?script_id=5853",
                 "id": 234608469,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2026-05-24T05:44:36Z",
+                "open_issues": 39,
                 "owner": "skywind3000",
                 "repo": "asynctasks.vim",
-                "stars": 939
+                "stars": 939,
+                "topics": [
+                  "ant",
+                  "asyncrun",
+                  "asynctasks",
+                  "build",
+                  "cmake",
+                  "make",
+                  "msbuild",
+                  "neomake",
+                  "neovim",
+                  "neovim-plugin",
+                  "neovim-plugins",
+                  "pandoc",
+                  "rake",
+                  "tasks",
+                  "vim",
+                  "vim-plugin",
+                  "vim-plugins"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             }
@@ -1128,12 +1742,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vim motions on speed!",
+                "homepage": "http://www.vim.org/scripts/script.php?script_id=3526",
                 "id": 1534303,
                 "language": "Vim script",
+                "license": null,
                 "last_commit": "2024-02-05T02:30:15Z",
+                "open_issues": 129,
                 "owner": "easymotion",
                 "repo": "vim-easymotion",
-                "stars": 7747
+                "stars": 7746,
+                "topics": [
+                  "vim",
+                  "vim-easymotion",
+                  "vim-plugin"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -1144,12 +1767,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The missing motion for Vim :athletic_shoe:",
+                "homepage": "http://www.vim.org/scripts/script.php?script_id=4809",
                 "id": 12998237,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2025-12-10T05:00:30Z",
+                "open_issues": 13,
                 "owner": "justinmk",
                 "repo": "vim-sneak",
-                "stars": 3533
+                "stars": 3533,
+                "topics": [
+                  "motion",
+                  "navigation",
+                  "neovim",
+                  "neovim-plugin",
+                  "nvim",
+                  "plugin",
+                  "vim",
+                  "vim-plugin",
+                  "viml"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             }
@@ -1167,12 +1805,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!",
+                "homepage": null,
                 "id": 3073296,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-04T16:38:19Z",
+                "open_issues": 1,
                 "owner": "SirVer",
                 "repo": "ultisnips",
-                "stars": 7699
+                "stars": 7699,
+                "topics": [
+                  "plugin",
+                  "snippets",
+                  "ultisnips",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -1183,12 +1831,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "vim-snipmate default snippets (Previously snipmate-snippets)",
+                "homepage": null,
                 "id": 1924847,
                 "language": "Vim Snippet",
+                "license": "MIT",
                 "last_commit": "2025-10-28T14:00:35Z",
+                "open_issues": 83,
                 "owner": "honza",
                 "repo": "vim-snippets",
-                "stars": 4883
+                "stars": 4883,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             }
@@ -1206,12 +1859,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A code-completion engine for Vim",
+                "homepage": "http://ycm-core.github.io/YouCompleteMe/",
                 "id": 4037197,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-23T09:23:12Z",
+                "open_issues": 36,
                 "owner": "ycm-core",
                 "repo": "YouCompleteMe",
-                "stars": 25896
+                "stars": 25896,
+                "topics": [
+                  "code-analysis",
+                  "code-completion",
+                  "semantic-engine",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -1222,12 +1885,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.",
+                "homepage": "https://cocnvim.com/",
                 "id": 131770422,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T20:00:43Z",
+                "open_issues": 8,
                 "owner": "neoclide",
                 "repo": "coc.nvim",
-                "stars": 25167
+                "stars": 25168,
+                "topics": [
+                  "autocompletion",
+                  "language-client",
+                  "lsp",
+                  "neovim-plugin",
+                  "nvim",
+                  "vim",
+                  "vim-plugin"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -1238,12 +1914,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
+                "homepage": null,
                 "id": 67747748,
                 "language": "Vim Script",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-21T02:38:28Z",
+                "open_issues": 587,
                 "owner": "dense-analysis",
                 "repo": "ale",
-                "stars": 14018
+                "stars": 14018,
+                "topics": [
+                  "autocomplete",
+                  "language-server-protocol",
+                  "languageclient",
+                  "linter",
+                  "lua",
+                  "lua-plugin",
+                  "neovim",
+                  "neovim-plugin",
+                  "syntax-checker",
+                  "vim",
+                  "vim-plugin",
+                  "vim-plugins"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -1254,12 +1948,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Syntax checking hacks for vim",
+                "homepage": null,
                 "id": 248523,
                 "language": "Vim script",
+                "license": "WTFPL",
                 "last_commit": "2022-07-10T12:58:50Z",
+                "open_issues": 50,
                 "owner": "vim-syntastic",
                 "repo": "syntastic",
-                "stars": 11217
+                "stars": 11217,
+                "topics": [
+                  "lint",
+                  "lint-checking",
+                  "linters",
+                  "syntax-checker",
+                  "syntax-checking",
+                  "vim-plugin"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -1270,12 +1976,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Next generation completion framework after neocomplcache",
+                "homepage": null,
                 "id": 10028006,
                 "language": "Vim Script",
+                "license": null,
                 "last_commit": "2023-05-18T09:47:35Z",
+                "open_issues": 1,
                 "owner": "Shougo",
                 "repo": "neocomplete.vim",
-                "stars": 2722
+                "stars": 2722,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -1286,12 +1997,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vim plugin for insert mode completion of words in adjacent tmux panes",
+                "homepage": null,
                 "id": 17801635,
                 "language": "Vim script",
+                "license": "MIT",
                 "last_commit": "2022-08-12T15:05:01Z",
+                "open_issues": 14,
                 "owner": "wellle",
                 "repo": "tmux-complete.vim",
-                "stars": 521
+                "stars": 521,
+                "topics": [
+                  "asyncomplete",
+                  "deoplete",
+                  "deoplete-source",
+                  "neocomplcache",
+                  "neocomplete",
+                  "neovim",
+                  "neovim-plugin",
+                  "tmux",
+                  "tmux-completions",
+                  "tmux-pane",
+                  "vim",
+                  "vim-plugin",
+                  "vim-plugins"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             }
@@ -1313,12 +2043,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A solid language pack for Vim.",
+            "homepage": null,
             "id": 12785573,
             "language": "Vim Script",
+            "license": null,
             "last_commit": "2025-08-27T17:10:22Z",
+            "open_issues": 117,
             "owner": "vim-polyglot",
             "repo": "vim-polyglot",
-            "stars": 5713
+            "stars": 5713,
+            "topics": [
+              "language-packs",
+              "plugin",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -1329,12 +2068,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":notebook_with_decorative_cover: The interactive scratchpad for hackers.",
+            "homepage": null,
             "id": 65144724,
             "language": "Vim Script",
+            "license": "MIT",
             "last_commit": "2023-02-28T15:46:33Z",
+            "open_issues": 39,
             "owner": "metakirby5",
             "repo": "codi.vim",
-            "stars": 3063
+            "stars": 3063,
+            "topics": [
+              "instant",
+              "interpreter",
+              "repl",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -1347,12 +2096,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go development plugin for Vim",
+                "homepage": "https://www.patreon.com/bhcleek",
                 "id": 18062944,
                 "language": "Vim Script",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-23T13:41:54Z",
+                "open_issues": 44,
                 "owner": "fatih",
                 "repo": "vim-go",
-                "stars": 16216
+                "stars": 16218,
+                "topics": [
+                  "go",
+                  "golang",
+                  "gopls",
+                  "hacktoberfest",
+                  "lps",
+                  "vim",
+                  "vim-go",
+                  "vim-plugins",
+                  "viml"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             }
@@ -1370,12 +2134,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Vim plugin that always highlights the enclosing html/xml tags",
+                "homepage": "http://valloric.github.com/MatchTagAlways/",
                 "id": 5725745,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-28T19:17:23Z",
+                "open_issues": 21,
                 "owner": "Valloric",
                 "repo": "MatchTagAlways",
-                "stars": 536
+                "stars": 536,
+                "topics": [
+                  "html",
+                  "syntax-highlighting",
+                  "vim",
+                  "xml"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -1386,12 +2160,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ionic 2 syntax highlight for Vim",
+                "homepage": null,
                 "id": 71894195,
                 "language": "Vim script",
+                "license": null,
                 "last_commit": "2017-05-25T10:59:39Z",
+                "open_issues": 2,
                 "owner": "akz92",
                 "repo": "vim-ionic2",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "ionic2",
+                  "syntax-highlighting",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             }
@@ -1409,12 +2192,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Syntax for JavaScript libraries",
+                "homepage": "http://www.vim.org/scripts/script.php?script_id=4428",
                 "id": 7934816,
                 "language": "Vim script",
+                "license": null,
                 "last_commit": "2018-10-09T11:14:43Z",
+                "open_issues": 13,
                 "owner": "othree",
                 "repo": "javascript-libraries-syntax.vim",
-                "stars": 616
+                "stars": 616,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             }
@@ -1432,12 +2220,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Instant Markdown previews from Vim",
+                "homepage": "https://instant-markdown.github.io",
                 "id": 3408646,
                 "language": "Vim Script",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-23T18:50:18Z",
+                "open_issues": 3,
                 "owner": "instant-markdown",
                 "repo": "vim-instant-markdown",
-                "stars": 2752
+                "stars": 2752,
+                "topics": [
+                  "markdown",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -1448,12 +2244,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A vim 7.4+ plugin to generate table of contents for Markdown files.",
+                "homepage": "http://www.vim.org/scripts/script.php?script_id=5460",
                 "id": 48156915,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2025-10-09T02:47:16Z",
+                "open_issues": 23,
                 "owner": "mzlogin",
                 "repo": "vim-markdown-toc",
-                "stars": 628
+                "stars": 628,
+                "topics": [
+                  "markdown",
+                  "toc",
+                  "vim",
+                  "vim-markdown-toc",
+                  "vim-plugin",
+                  "vim-plugins"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -1464,12 +2272,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A vim plugin that adds some nice extra's for working with markdown documents",
+                "homepage": "https://www.vim.org/scripts/script.php?script_id=5620",
                 "id": 109629841,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2026-05-10T10:26:08Z",
+                "open_issues": 3,
                 "owner": "SidOfc",
                 "repo": "mkdx",
-                "stars": 489
+                "stars": 489,
+                "topics": [
+                  "nvim",
+                  "vim",
+                  "vim-plugin",
+                  "vimscript"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             }
@@ -1487,12 +2305,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PHP Documentor for VIM - Generates PHP docblocks",
+                "homepage": null,
                 "id": 3489204,
                 "language": "VimL",
+                "license": null,
                 "last_commit": "2018-02-11T19:19:25Z",
+                "open_issues": 16,
                 "owner": "tobyS",
                 "repo": "pdv",
-                "stars": 160
+                "stars": 160,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             }
@@ -1510,12 +2333,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.",
+                "homepage": null,
                 "id": 2408911,
                 "language": "Vim Script",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-05-24T01:39:48Z",
+                "open_issues": 39,
                 "owner": "python-mode",
                 "repo": "python-mode",
-                "stars": 5465
+                "stars": 5466,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             }
@@ -1533,12 +2361,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "endwise.vim: Wisely add ",
+                "homepage": "https://www.vim.org/scripts/script.php?script_id=2386",
                 "id": 434288,
                 "language": "Vim Script",
+                "license": null,
                 "last_commit": "2025-11-05T03:09:00Z",
+                "open_issues": 23,
                 "owner": "tpope",
                 "repo": "vim-endwise",
-                "stars": 1167
+                "stars": 1167,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             }
@@ -1556,12 +2389,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VIM MySQL Plugin",
+                "homepage": null,
                 "id": 129021458,
                 "language": "Vim Script",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-10T15:16:56Z",
+                "open_issues": 4,
                 "owner": "kezhenxu94",
                 "repo": "vim-mysql-plugin",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "awesome",
+                  "awesome-vim",
+                  "mysql",
+                  "mysql-client",
+                  "vim",
+                  "vim-mysql-plugin",
+                  "vim-plugin"
+                ]
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             }
@@ -1579,12 +2425,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A filetype plugin for VIM to help edit XML files",
+                "homepage": "http://www.vim.org/scripts/script.php?script_id=301",
                 "id": 166962,
                 "language": "Vim script",
+                "license": null,
                 "last_commit": "2020-12-08T22:57:56Z",
+                "open_issues": 10,
                 "owner": "sukima",
                 "repo": "xmledit",
-                "stars": 255
+                "stars": 255,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             }
@@ -1608,12 +2459,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pony power for working with Django projects.",
+                "homepage": null,
                 "id": 1661604,
                 "language": "Vim script",
+                "license": null,
                 "last_commit": "2018-06-24T13:45:32Z",
+                "open_issues": 4,
                 "owner": "jmcomets",
                 "repo": "vim-pony",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             },
@@ -1624,12 +2480,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "htmldjango filetype omnicomplete - completes template tags/filters/variables ",
+                "homepage": null,
                 "id": 4097002,
                 "language": "Vim script",
+                "license": null,
                 "last_commit": "2017-06-09T12:22:23Z",
+                "open_issues": 3,
                 "owner": "mjbrownie",
                 "repo": "vim-htmldjango_omnicomplete",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             }
@@ -1647,12 +2508,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "rails.vim: Ruby on Rails power tools",
+                "homepage": "http://www.vim.org/scripts/script.php?script_id=1567",
                 "id": 61032,
                 "language": "Vim Script",
+                "license": null,
                 "last_commit": "2025-02-19T06:36:00Z",
+                "open_issues": 42,
                 "owner": "tpope",
                 "repo": "vim-rails",
-                "stars": 4151
+                "stars": 4151,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
             }
@@ -1674,12 +2540,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neovim config for the lazy",
+            "homepage": "https://lazyvim.github.io/",
             "id": 583706111,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-02T15:27:57Z",
+            "open_issues": 78,
             "owner": "LazyVim",
             "repo": "LazyVim",
-            "stars": 27304
+            "stars": 27305,
+            "topics": [
+              "neovim",
+              "neovim-conf",
+              "neovim-config",
+              "neovim-configuration",
+              "neovim-plugin",
+              "nvim"
+            ]
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -1690,12 +2568,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A modular configuration of Vim and Neovim",
+            "homepage": "https://spacevim.org/",
             "id": 77358263,
             "language": "Vim Script",
+            "license": "GPL-3.0",
             "last_commit": "2025-02-17T14:14:00Z",
+            "open_issues": 5,
             "owner": "wsdjeg",
             "repo": "SpaceVim",
-            "stars": 20216
+            "stars": 20216,
+            "topics": [
+              "neovim",
+              "neovim-plugin",
+              "spacevim",
+              "vim",
+              "vim-plugin",
+              "vimrc"
+            ]
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -1706,12 +2596,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.",
+            "homepage": "https://www.lunarvim.org",
             "id": 145050544,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2025-06-05T15:05:30Z",
+            "open_issues": 33,
             "owner": "LunarVim",
             "repo": "LunarVim",
-            "stars": 19273
+            "stars": 19273,
+            "topics": [
+              "formatters",
+              "hacktoberfest",
+              "ide",
+              "linters",
+              "lua",
+              "lunarvim",
+              "neovim",
+              "neovim-config",
+              "neovim-configuration",
+              "neovim-lua",
+              "neovim-setup",
+              "nvim",
+              "snippets",
+              "vim",
+              "vimrc",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -1722,12 +2634,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The ultimate vim distribution",
+            "homepage": "http://vim.spf13.com",
             "id": 619849,
             "language": "Vim Script",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-12T05:24:58Z",
+            "open_issues": 348,
             "owner": "spf13",
             "repo": "spf13-vim",
-            "stars": 15482
+            "stars": 15482,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -1738,12 +2655,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vim distribution",
+            "homepage": null,
             "id": 825237,
             "language": "Vim script",
+            "license": null,
             "last_commit": "2022-04-09T17:39:09Z",
+            "open_issues": 97,
             "owner": "carlhuda",
             "repo": "janus",
-            "stars": 7845
+            "stars": 7845,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -1754,12 +2676,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Opinionated Neovim Config for the Minimalists",
+            "homepage": "https://www.blacksuan19.dev/projects/init-nvim/",
             "id": 224820971,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-04-19T02:07:57Z",
+            "open_issues": 0,
             "owner": "Blacksuan19",
             "repo": "init.nvim",
-            "stars": 427
+            "stars": 427,
+            "topics": [
+              "asynchronous",
+              "coc",
+              "fzf",
+              "ide-features",
+              "keyboard-shortcuts",
+              "liquid",
+              "neovim",
+              "nvim",
+              "nvim-settings",
+              "prettier",
+              "vim-script",
+              "vimrc"
+            ]
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         },
@@ -1770,12 +2710,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a Vim configuration that gets you a similar experience as a full-featured IDE. This is accomplished using native vim features with the help of some plugins.",
+            "homepage": null,
             "id": 505928723,
             "language": "Vim Script",
+            "license": "AGPL-3.0",
             "last_commit": "2024-11-09T18:03:52Z",
+            "open_issues": 0,
             "owner": "wolandark",
             "repo": "wim",
-            "stars": 340
+            "stars": 340,
+            "topics": [
+              "ide",
+              "vim",
+              "vim-configuration",
+              "vim9",
+              "vimrc"
+            ]
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         }
@@ -1792,12 +2743,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Vim plugin shortlist",
+            "homepage": "https://vim.zeef.com/andrew.krawchyk",
             "id": 22468657,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-06-06T18:42:55Z",
+            "open_issues": 11,
             "owner": "akrawchyk",
             "repo": "awesome-vim",
-            "stars": 2129
+            "stars": 2129,
+            "topics": [
+              "awesome",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         }
@@ -1814,12 +2773,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Vim plugin shortlist",
+            "homepage": "https://vim.zeef.com/andrew.krawchyk",
             "id": 22468657,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-06-06T18:42:55Z",
+            "open_issues": 11,
             "owner": "akrawchyk",
             "repo": "awesome-vim",
-            "stars": 2129
+            "stars": 2129,
+            "topics": [
+              "awesome",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
         }
@@ -1828,15 +2795,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:44:06.082Z",
+    "last_updated": "2026-08-29T04:28:14.409Z",
     "original_repository_info": {
       "archived": false,
+      "description": "The Vim plugin shortlist",
+      "homepage": "https://vim.zeef.com/andrew.krawchyk",
       "id": 22468657,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-06-06T18:42:55Z",
+      "open_issues": 11,
       "owner": "akrawchyk",
       "repo": "awesome-vim",
-      "stars": 2129
+      "stars": 2129,
+      "topics": [
+        "awesome",
+        "vim"
+      ]
     },
     "original_repository_sha": "153057807410d286c556dfb043ab85a2c2f2790d",
     "enhanced_repository": "enhansome/enhansome-vim",
