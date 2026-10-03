@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Vim Galore",
-          "description": null,
+          "description": "mhinz/vim-galore",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 18007,
+            "stars": 18009,
             "topics": [
               "awesome",
               "awesome-list",
@@ -39,7 +39,7 @@
         {
           "node_type": "item",
           "title": "PacVim",
-          "description": null,
+          "description": "jmoon018/PacVim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -60,7 +60,7 @@
         {
           "node_type": "item",
           "title": "Learning Vim (Chinese)",
-          "description": null,
+          "description": "dofy/learn-vim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -93,7 +93,7 @@
         {
           "node_type": "item",
           "title": "The Way of the Vim Warrior",
-          "description": null,
+          "description": "dahu/LearnVim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -114,7 +114,7 @@
         {
           "node_type": "item",
           "title": "Fortune vimtips",
-          "description": null,
+          "description": "openuado/vimtips-fortune",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -141,7 +141,7 @@
         {
           "node_type": "item",
           "title": "Vim-plug",
-          "description": null,
+          "description": "junegunn/vim-plug",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -154,7 +154,7 @@
             "open_issues": 86,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35776,
+            "stars": 35775,
             "topics": [
               "vim"
             ]
@@ -164,7 +164,7 @@
         {
           "node_type": "item",
           "title": "Vundle",
-          "description": null,
+          "description": "VundleVim/Vundle.vim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -177,7 +177,7 @@
             "open_issues": 204,
             "owner": "VundleVim",
             "repo": "Vundle.vim",
-            "stars": 23918,
+            "stars": 23917,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
@@ -185,7 +185,7 @@
         {
           "node_type": "item",
           "title": "lazy.nvim",
-          "description": null,
+          "description": "folke/lazy.nvim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -198,7 +198,7 @@
             "open_issues": 72,
             "owner": "folke",
             "repo": "lazy.nvim",
-            "stars": 21616,
+            "stars": 21617,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -212,7 +212,7 @@
         {
           "node_type": "item",
           "title": "Pathogen",
-          "description": null,
+          "description": "tpope/vim-pathogen",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -225,7 +225,7 @@
             "open_issues": 27,
             "owner": "tpope",
             "repo": "vim-pathogen",
-            "stars": 12112,
+            "stars": 12111,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
@@ -233,7 +233,7 @@
         {
           "node_type": "item",
           "title": "Dein.vim",
-          "description": null,
+          "description": "Shougo/dein.vim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -259,7 +259,7 @@
         {
           "node_type": "item",
           "title": "Neobundle",
-          "description": null,
+          "description": "Shougo/neobundle.vim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -280,7 +280,7 @@
         {
           "node_type": "item",
           "title": "VAM",
-          "description": null,
+          "description": "MarcWeber/vim-addon-manager",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -307,7 +307,7 @@
         {
           "node_type": "item",
           "title": "Gruvbox",
-          "description": null,
+          "description": "morhetz/gruvbox",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -320,7 +320,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15773,
+            "stars": 15775,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
@@ -328,7 +328,7 @@
         {
           "node_type": "item",
           "title": "Solarized",
-          "description": null,
+          "description": "altercation/vim-colors-solarized",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -349,7 +349,7 @@
         {
           "node_type": "item",
           "title": "onedark",
-          "description": null,
+          "description": "joshdick/onedark.vim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -377,7 +377,7 @@
         {
           "node_type": "item",
           "title": "Molokai",
-          "description": null,
+          "description": "tomasr/molokai",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -398,7 +398,7 @@
         {
           "node_type": "item",
           "title": "Jellybeans",
-          "description": null,
+          "description": "nanotech/jellybeans.vim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -424,7 +424,7 @@
         {
           "node_type": "item",
           "title": "Apprentice",
-          "description": null,
+          "description": "romainl/Apprentice",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -450,7 +450,7 @@
         {
           "node_type": "item",
           "title": "Base16",
-          "description": null,
+          "description": "chriskempson/base16-vim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -471,7 +471,7 @@
         {
           "node_type": "item",
           "title": "Darcula",
-          "description": null,
+          "description": "blueshirts/darcula",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -492,7 +492,7 @@
         {
           "node_type": "item",
           "title": "simple-dark",
-          "description": null,
+          "description": "tek256/simple-dark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -528,7 +528,7 @@
             {
               "node_type": "item",
               "title": "Surround",
-              "description": null,
+              "description": "tpope/vim-surround",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -549,7 +549,7 @@
             {
               "node_type": "item",
               "title": "NerdCommenter",
-              "description": null,
+              "description": "preservim/nerdcommenter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -576,7 +576,7 @@
             {
               "node_type": "item",
               "title": "Unimpaired",
-              "description": null,
+              "description": "tpope/vim-unimpaired",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -597,7 +597,7 @@
             {
               "node_type": "item",
               "title": "EditorConfig",
-              "description": null,
+              "description": "editorconfig/editorconfig-vim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -622,7 +622,7 @@
             {
               "node_type": "item",
               "title": "Abolish",
-              "description": null,
+              "description": "tpope/vim-abolish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -643,7 +643,7 @@
             {
               "node_type": "item",
               "title": "Repeat",
-              "description": null,
+              "description": "tpope/vim-repeat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -664,7 +664,7 @@
             {
               "node_type": "item",
               "title": "Tabular",
-              "description": null,
+              "description": "godlygeek/tabular",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -677,7 +677,7 @@
                 "open_issues": 30,
                 "owner": "godlygeek",
                 "repo": "tabular",
-                "stars": 2659,
+                "stars": 2657,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
@@ -685,7 +685,7 @@
             {
               "node_type": "item",
               "title": "IndentGuides",
-              "description": null,
+              "description": "preservim/vim-indent-guides",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -706,7 +706,7 @@
             {
               "node_type": "item",
               "title": "Targets",
-              "description": null,
+              "description": "wellle/targets.vim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -735,7 +735,7 @@
             {
               "node_type": "item",
               "title": "DelimitMate",
-              "description": null,
+              "description": "Raimondi/delimitMate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -756,7 +756,7 @@
             {
               "node_type": "item",
               "title": "TextobjUser",
-              "description": null,
+              "description": "kana/vim-textobj-user",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -781,7 +781,7 @@
             {
               "node_type": "item",
               "title": "Gundo",
-              "description": null,
+              "description": "sjl/gundo.vim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -802,7 +802,7 @@
             {
               "node_type": "item",
               "title": "TComment",
-              "description": null,
+              "description": "tomtom/tcomment_vim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -826,7 +826,7 @@
             {
               "node_type": "item",
               "title": "ExpandRegion",
-              "description": null,
+              "description": "terryma/vim-expand-region",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -847,7 +847,7 @@
             {
               "node_type": "item",
               "title": "DoGe",
-              "description": null,
+              "description": "kkoomen/vim-doge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -882,7 +882,7 @@
             {
               "node_type": "item",
               "title": "WindowSwap",
-              "description": null,
+              "description": "wesQ3/vim-windowswap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -907,7 +907,7 @@
             {
               "node_type": "item",
               "title": "YankStack",
-              "description": null,
+              "description": "maxbrunsfeld/vim-yankstack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -928,7 +928,7 @@
             {
               "node_type": "item",
               "title": "VisualSplit",
-              "description": null,
+              "description": "wellle/visual-split.vim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -957,7 +957,7 @@
             {
               "node_type": "item",
               "title": "TextobjWordColumn",
-              "description": null,
+              "description": "coderifous/textobj-word-column.vim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -978,7 +978,7 @@
             {
               "node_type": "item",
               "title": "TextobjIndent",
-              "description": null,
+              "description": "kana/vim-textobj-indent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -999,7 +999,7 @@
             {
               "node_type": "item",
               "title": "Align",
-              "description": null,
+              "description": "vim-scripts/Align",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1027,7 +1027,7 @@
             {
               "node_type": "item",
               "title": "NERDTree",
-              "description": null,
+              "description": "preservim/nerdtree",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1040,7 +1040,7 @@
                 "open_issues": 40,
                 "owner": "preservim",
                 "repo": "nerdtree",
-                "stars": 20087,
+                "stars": 20086,
                 "topics": [
                   "file-management",
                   "file-manager",
@@ -1054,7 +1054,7 @@
             {
               "node_type": "item",
               "title": "Vinegar",
-              "description": null,
+              "description": "tpope/vim-vinegar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1075,7 +1075,7 @@
             {
               "node_type": "item",
               "title": "Dirvish",
-              "description": null,
+              "description": "justinmk/vim-dirvish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1112,7 +1112,7 @@
             {
               "node_type": "item",
               "title": "Fugitive",
-              "description": null,
+              "description": "tpope/vim-fugitive",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1133,7 +1133,7 @@
             {
               "node_type": "item",
               "title": "vim-gitgutter",
-              "description": null,
+              "description": "airblade/vim-gitgutter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1194,7 +1194,7 @@
             {
               "node_type": "item",
               "title": "Startify",
-              "description": null,
+              "description": "mhinz/vim-startify",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1224,7 +1224,7 @@
             {
               "node_type": "item",
               "title": "Signify",
-              "description": null,
+              "description": "mhinz/vim-signify",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1263,7 +1263,7 @@
             {
               "node_type": "item",
               "title": "vim-quickui",
-              "description": null,
+              "description": "skywind3000/vim-quickui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1305,7 +1305,7 @@
             {
               "node_type": "item",
               "title": "vim-lastplace",
-              "description": null,
+              "description": "farmergreg/vim-lastplace",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1341,7 +1341,7 @@
             {
               "node_type": "item",
               "title": "vim-diminactive",
-              "description": null,
+              "description": "blueyed/vim-diminactive",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1382,7 +1382,7 @@
                 "open_issues": 332,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 83358,
+                "stars": 83355,
                 "topics": [
                   "bash",
                   "cli",
@@ -1401,7 +1401,7 @@
             {
               "node_type": "item",
               "title": "CtrlP",
-              "description": null,
+              "description": "ctrlpvim/ctrlp.vim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1411,7 +1411,7 @@
                 "language": "Vim Script",
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-25T17:37:37Z",
-                "open_issues": 199,
+                "open_issues": 201,
                 "owner": "ctrlpvim",
                 "repo": "ctrlp.vim",
                 "stars": 5640,
@@ -1422,7 +1422,7 @@
             {
               "node_type": "item",
               "title": "Ack",
-              "description": null,
+              "description": "mileszs/ack.vim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1443,7 +1443,7 @@
             {
               "node_type": "item",
               "title": "CtrlSF",
-              "description": null,
+              "description": "dyng/ctrlsf.vim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1473,7 +1473,7 @@
             {
               "node_type": "item",
               "title": "Any-jump.vim",
-              "description": null,
+              "description": "pechorin/any-jump.vim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1502,7 +1502,7 @@
             {
               "node_type": "item",
               "title": "FlyGrep",
-              "description": null,
+              "description": "wsdjeg/FlyGrep.vim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1526,7 +1526,7 @@
             {
               "node_type": "item",
               "title": "zoxide.vim",
-              "description": null,
+              "description": "nanotee/zoxide.vim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1553,7 +1553,7 @@
             {
               "node_type": "item",
               "title": "MRU",
-              "description": null,
+              "description": "yegappan/mru",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1574,7 +1574,7 @@
             {
               "node_type": "item",
               "title": "vim-codequery",
-              "description": null,
+              "description": "devjoe/vim-codequery",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1602,7 +1602,7 @@
             {
               "node_type": "item",
               "title": "vim-test",
-              "description": null,
+              "description": "vim-test/vim-test",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1629,7 +1629,7 @@
             {
               "node_type": "item",
               "title": "Dispatch",
-              "description": null,
+              "description": "tpope/vim-dispatch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1654,7 +1654,7 @@
             {
               "node_type": "item",
               "title": "AsyncRun",
-              "description": null,
+              "description": "skywind3000/asyncrun.vim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1692,7 +1692,7 @@
             {
               "node_type": "item",
               "title": "AsyncTasks",
-              "description": null,
+              "description": "skywind3000/asynctasks.vim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1738,7 +1738,7 @@
             {
               "node_type": "item",
               "title": "EasyMotion",
-              "description": null,
+              "description": "easymotion/vim-easymotion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1751,7 +1751,7 @@
                 "open_issues": 128,
                 "owner": "easymotion",
                 "repo": "vim-easymotion",
-                "stars": 7744,
+                "stars": 7745,
                 "topics": [
                   "vim",
                   "vim-easymotion",
@@ -1763,7 +1763,7 @@
             {
               "node_type": "item",
               "title": "Sneak",
-              "description": null,
+              "description": "justinmk/vim-sneak",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1801,7 +1801,7 @@
             {
               "node_type": "item",
               "title": "UltiSnips",
-              "description": null,
+              "description": "SirVer/ultisnips",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1827,7 +1827,7 @@
             {
               "node_type": "item",
               "title": "Snippets",
-              "description": null,
+              "description": "honza/vim-snippets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1855,7 +1855,7 @@
             {
               "node_type": "item",
               "title": "YouCompleteMe",
-              "description": null,
+              "description": "ycm-core/YouCompleteMe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1881,7 +1881,7 @@
             {
               "node_type": "item",
               "title": "Coc",
-              "description": null,
+              "description": "neoclide/coc.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1910,7 +1910,7 @@
             {
               "node_type": "item",
               "title": "Asynchronous Lint Engine",
-              "description": null,
+              "description": "dense-analysis/ale",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1944,7 +1944,7 @@
             {
               "node_type": "item",
               "title": "Syntastic",
-              "description": null,
+              "description": "vim-syntastic/syntastic",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1972,7 +1972,7 @@
             {
               "node_type": "item",
               "title": "Neocomplete",
-              "description": null,
+              "description": "Shougo/neocomplete.vim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1993,7 +1993,7 @@
             {
               "node_type": "item",
               "title": "TmuxComplete",
-              "description": null,
+              "description": "wellle/tmux-complete.vim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2039,7 +2039,7 @@
         {
           "node_type": "item",
           "title": "Polyglot",
-          "description": null,
+          "description": "vim-polyglot/vim-polyglot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2064,7 +2064,7 @@
         {
           "node_type": "item",
           "title": "Codi",
-          "description": null,
+          "description": "metakirby5/codi.vim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2092,7 +2092,7 @@
             {
               "node_type": "item",
               "title": "vim-go",
-              "description": null,
+              "description": "fatih/vim-go",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2130,7 +2130,7 @@
             {
               "node_type": "item",
               "title": "MatchTagAlways",
-              "description": null,
+              "description": "Valloric/MatchTagAlways",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2156,7 +2156,7 @@
             {
               "node_type": "item",
               "title": "vim-ionic2",
-              "description": null,
+              "description": "akz92/vim-ionic2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2188,7 +2188,7 @@
             {
               "node_type": "item",
               "title": "JavascriptLibrariesSyntax",
-              "description": null,
+              "description": "othree/javascript-libraries-syntax.vim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2216,7 +2216,7 @@
             {
               "node_type": "item",
               "title": "vim-instant-markdown",
-              "description": null,
+              "description": "instant-markdown/vim-instant-markdown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2240,7 +2240,7 @@
             {
               "node_type": "item",
               "title": "vim-markdown-toc",
-              "description": null,
+              "description": "mzlogin/vim-markdown-toc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2268,7 +2268,7 @@
             {
               "node_type": "item",
               "title": "mkdx",
-              "description": null,
+              "description": "SidOfc/mkdx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2301,7 +2301,7 @@
             {
               "node_type": "item",
               "title": "PDV",
-              "description": null,
+              "description": "tobyS/pdv",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2329,7 +2329,7 @@
             {
               "node_type": "item",
               "title": "PythonMode",
-              "description": null,
+              "description": "python-mode/python-mode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2357,7 +2357,7 @@
             {
               "node_type": "item",
               "title": "Endwise",
-              "description": null,
+              "description": "tpope/vim-endwise",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2385,7 +2385,7 @@
             {
               "node_type": "item",
               "title": "vim-mysql-plugin",
-              "description": null,
+              "description": "kezhenxu94/vim-mysql-plugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2421,7 +2421,7 @@
             {
               "node_type": "item",
               "title": "xmledit",
-              "description": null,
+              "description": "sukima/xmledit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2455,7 +2455,7 @@
             {
               "node_type": "item",
               "title": "Pony",
-              "description": null,
+              "description": "jmcomets/vim-pony",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2476,7 +2476,7 @@
             {
               "node_type": "item",
               "title": "htmldjango autocomplete",
-              "description": null,
+              "description": "mjbrownie/vim-htmldjango_omnicomplete",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2504,7 +2504,7 @@
             {
               "node_type": "item",
               "title": "Rails",
-              "description": null,
+              "description": "tpope/vim-rails",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2536,7 +2536,7 @@
         {
           "node_type": "item",
           "title": "LazyVim",
-          "description": null,
+          "description": "LazyVim/LazyVim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2549,7 +2549,7 @@
             "open_issues": 81,
             "owner": "LazyVim",
             "repo": "LazyVim",
-            "stars": 27592,
+            "stars": 27593,
             "topics": [
               "neovim",
               "neovim-conf",
@@ -2564,7 +2564,7 @@
         {
           "node_type": "item",
           "title": "spacevim",
-          "description": null,
+          "description": "wsdjeg/SpaceVim",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2592,7 +2592,7 @@
         {
           "node_type": "item",
           "title": "LunarVim",
-          "description": null,
+          "description": "LunarVim/LunarVim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2630,7 +2630,7 @@
         {
           "node_type": "item",
           "title": "spf13",
-          "description": null,
+          "description": "spf13/spf13-vim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2651,7 +2651,7 @@
         {
           "node_type": "item",
           "title": "Janus",
-          "description": null,
+          "description": "carlhuda/janus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2672,7 +2672,7 @@
         {
           "node_type": "item",
           "title": "init.nvim",
-          "description": null,
+          "description": "Blacksuan19/init.nvim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2706,7 +2706,7 @@
         {
           "node_type": "item",
           "title": "wim",
-          "description": null,
+          "description": "wolandark/wim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2732,70 +2732,10 @@
         }
       ],
       "title": "Distributions"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Please read the contribution guidelines",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Vim plugin shortlist",
-            "homepage": "https://vim.zeef.com/andrew.krawchyk",
-            "id": 22468657,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2025-06-06T18:42:55Z",
-            "open_issues": 12,
-            "owner": "akrawchyk",
-            "repo": "awesome-vim",
-            "stars": 2130,
-            "topics": [
-              "awesome",
-              "vim"
-            ]
-          },
-          "first_seen": "2026-08-29T01:44:06.082Z"
-        }
-      ],
-      "title": "Contributing"
-    },
-    {
-      "description": "Shameless plug for my vimrc akrawchyk/dotfiles.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MIT License",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Vim plugin shortlist",
-            "homepage": "https://vim.zeef.com/andrew.krawchyk",
-            "id": 22468657,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2025-06-06T18:42:55Z",
-            "open_issues": 12,
-            "owner": "akrawchyk",
-            "repo": "awesome-vim",
-            "stars": 2130,
-            "topics": [
-              "awesome",
-              "vim"
-            ]
-          },
-          "first_seen": "2026-08-29T01:44:06.082Z"
-        }
-      ],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:09:53.986Z",
+    "last_updated": "2026-10-03T05:15:53.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "The Vim plugin shortlist",
