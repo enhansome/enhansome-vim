@@ -177,7 +177,7 @@
             "open_issues": 204,
             "owner": "VundleVim",
             "repo": "Vundle.vim",
-            "stars": 23916,
+            "stars": 23918,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
@@ -195,10 +195,10 @@
             "language": "Lua",
             "license": "Apache-2.0",
             "last_commit": "2026-06-29T18:23:04Z",
-            "open_issues": 72,
+            "open_issues": 71,
             "owner": "folke",
             "repo": "lazy.nvim",
-            "stars": 21629,
+            "stars": 21630,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -1125,7 +1125,7 @@
                 "open_issues": 141,
                 "owner": "tpope",
                 "repo": "vim-fugitive",
-                "stars": 21804,
+                "stars": 21807,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
@@ -1146,7 +1146,7 @@
                 "open_issues": 2,
                 "owner": "airblade",
                 "repo": "vim-gitgutter",
-                "stars": 8514,
+                "stars": 8515,
                 "topics": [
                   "diff",
                   "git",
@@ -1233,8 +1233,8 @@
                 "id": 8586494,
                 "language": "Vim Script",
                 "license": "MIT",
-                "last_commit": "2026-03-12T14:24:49Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-06T09:41:51Z",
+                "open_issues": 13,
                 "owner": "mhinz",
                 "repo": "vim-signify",
                 "stars": 2726,
@@ -1382,7 +1382,7 @@
                 "open_issues": 333,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 83393,
+                "stars": 83400,
                 "topics": [
                   "bash",
                   "cli",
@@ -1868,7 +1868,7 @@
                 "open_issues": 38,
                 "owner": "ycm-core",
                 "repo": "YouCompleteMe",
-                "stars": 25871,
+                "stars": 25870,
                 "topics": [
                   "code-analysis",
                   "code-completion",
@@ -1894,7 +1894,7 @@
                 "open_issues": 11,
                 "owner": "neoclide",
                 "repo": "coc.nvim",
-                "stars": 25153,
+                "stars": 25154,
                 "topics": [
                   "autocompletion",
                   "language-client",
@@ -2549,7 +2549,7 @@
             "open_issues": 84,
             "owner": "LazyVim",
             "repo": "LazyVim",
-            "stars": 27609,
+            "stars": 27611,
             "topics": [
               "neovim",
               "neovim-conf",
@@ -2577,7 +2577,7 @@
             "open_issues": 5,
             "owner": "wsdjeg",
             "repo": "SpaceVim",
-            "stars": 20196,
+            "stars": 20195,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -2735,7 +2735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T00:00:14.507Z",
+    "last_updated": "2026-10-06T10:57:23.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "The Vim plugin shortlist",
