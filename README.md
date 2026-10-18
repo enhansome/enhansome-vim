@@ -17,7 +17,7 @@ Plugins organized by section and ordered alphabetically.
 
 ## Learning Vim
 
-* [Vim Galore](https://github.com/mhinz/vim-galore) ⭐ 18,015 | 🐛 13 | 🌐 Vim script | 📅 2023-12-22
+* [Vim Galore](https://github.com/mhinz/vim-galore) ⭐ 18,017 | 🐛 13 | 🌐 Vim script | 📅 2023-12-22
 * [PacVim](https://github.com/jmoon018/PacVim) ⭐ 3,327 | 🐛 23 | 🌐 C++ | 📅 2024-03-23
 * [Learning Vim (Chinese)](https://github.com/dofy/learn-vim) ⭐ 1,735 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-10
 * [The Way of the Vim Warrior](https://github.com/dahu/LearnVim) ⭐ 420 | 🐛 2 | 📅 2020-05-27
@@ -31,19 +31,19 @@ Plugins organized by section and ordered alphabetically.
 
 ## Plugin Management
 
-* [Vim-plug](https://github.com/junegunn/vim-plug) ⭐ 35,771 | 🐛 86 | 🌐 Vim Script | 📅 2026-10-15
+* [Vim-plug](https://github.com/junegunn/vim-plug) ⭐ 35,770 | 🐛 86 | 🌐 Vim Script | 📅 2026-10-15
 * [Vundle](https://github.com/gmarik/Vundle.vim) ⭐ 23,912 | 🐛 204 | 🌐 Vim Script | 📅 2024-07-30
-* [lazy.nvim](https://github.com/folke/lazy.nvim) ⭐ 21,663 | 🐛 72 | 🌐 Lua | 📅 2026-06-29
-* [Pathogen](https://github.com/tpope/vim-pathogen) ⭐ 12,113 | 🐛 27 | 🌐 Vim Script | 📅 2022-08-24
+* [lazy.nvim](https://github.com/folke/lazy.nvim) ⭐ 21,665 | 🐛 72 | 🌐 Lua | 📅 2026-06-29
+* [Pathogen](https://github.com/tpope/vim-pathogen) ⭐ 12,112 | 🐛 27 | 🌐 Vim Script | 📅 2022-08-24
 * [Dein.vim](https://github.com/Shougo/dein.vim) ⭐ 3,417 | 🐛 2 | 🌐 Vim Script | 📅 2025-09-13
 * [Neobundle](https://github.com/Shougo/neobundle.vim) ⭐ 2,280 | 🐛 0 | 🌐 Vim script | 📅 2018-07-26
 * [VAM](https://github.com/MarcWeber/vim-addon-manager) ⭐ 667 | 🐛 32 | 🌐 Vim Script | 📅 2026-05-09
 
 ## Colors
 
-* [Gruvbox](https://github.com/morhetz/gruvbox) ⭐ 15,788 | 🐛 159 | 🌐 Vim Script | 📅 2026-09-18
+* [Gruvbox](https://github.com/morhetz/gruvbox) ⭐ 15,794 | 🐛 159 | 🌐 Vim Script | 📅 2026-09-18
 * [Solarized](https://github.com/altercation/vim-colors-solarized) ⭐ 6,587 | 🐛 132 | 🌐 VimL | 📅 2024-04-10
-* [onedark](https://github.com/joshdick/onedark.vim) ⭐ 4,003 | 🐛 28 | 🌐 Vim Script | 📅 2026-04-02
+* [onedark](https://github.com/joshdick/onedark.vim) ⭐ 4,002 | 🐛 28 | 🌐 Vim Script | 📅 2026-04-02
 * [Molokai](https://github.com/tomasr/molokai) ⭐ 3,623 | 🐛 36 | 🌐 VimL | 📅 2022-10-27
 * [Jellybeans](https://github.com/nanotech/jellybeans.vim) ⭐ 1,870 | 🐛 13 | 🌐 Vim script | 📅 2020-09-30
 * [Apprentice](https://github.com/romainl/Apprentice) ⭐ 935 | 🐛 1 | 🌐 Vim Script | 📅 2025-07-14
@@ -55,7 +55,7 @@ Plugins organized by section and ordered alphabetically.
 
 ### Editing
 
-* [Surround](https://github.com/tpope/vim-surround) ⭐ 14,105 | 🐛 140 | 🌐 Vim Script | 📅 2024-06-30
+* [Surround](https://github.com/tpope/vim-surround) ⭐ 14,107 | 🐛 140 | 🌐 Vim Script | 📅 2024-06-30
 * [NerdCommenter](https://github.com/scrooloose/nerdcommenter) ⭐ 5,004 | 🐛 102 | 🌐 Vim Script | 📅 2025-11-19
 * [Unimpaired](https://github.com/tpope/vim-unimpaired) ⭐ 3,463 | 🐛 56 | 🌐 Vim Script | 📅 2025-08-16
 * [EditorConfig](https://github.com/editorconfig/editorconfig-vim) ⭐ 3,169 | 🐛 44 | 🌐 Vim Script | 📅 2026-03-16
@@ -85,7 +85,7 @@ Plugins organized by section and ordered alphabetically.
 
 ### Git
 
-* [Fugitive](https://github.com/tpope/vim-fugitive) ⭐ 21,807 | 🐛 141 | 🌐 Vim Script | 📅 2026-03-07
+* [Fugitive](https://github.com/tpope/vim-fugitive) ⭐ 21,809 | 🐛 141 | 🌐 Vim Script | 📅 2026-03-07
 * [vim-gitgutter](https://github.com/airblade/vim-gitgutter) ⭐ 8,515 | 🐛 2 | 🌐 Vim Script | 📅 2026-07-21
 
 ### Interface
@@ -93,16 +93,16 @@ Plugins organized by section and ordered alphabetically.
 * [Airline](https://github.com/bling/vim-airline) ⭐ 17,966 | 🐛 38 | 🌐 Vim Script | 📅 2026-10-14 + [Airline Themes](https://github.com/vim-airline/vim-airline-themes) ⭐ 2,076 | 🐛 11 | 🌐 Vim Script | 📅 2025-09-22
 * [Startify](https://github.com/mhinz/vim-startify) ⭐ 5,383 | 🐛 80 | 🌐 Vim Script | 📅 2024-01-05
 * [Signify](https://github.com/mhinz/vim-signify) ⭐ 2,725 | 🐛 13 | 🌐 Vim Script | 📅 2026-10-06
-* [vim-quickui](https://github.com/skywind3000/vim-quickui) ⭐ 1,180 | 🐛 39 | 🌐 Vim Script | 📅 2026-06-30
+* [vim-quickui](https://github.com/skywind3000/vim-quickui) ⭐ 1,181 | 🐛 39 | 🌐 Vim Script | 📅 2026-06-30
 * [vim-lastplace](https://github.com/farmergreg/vim-lastplace) ⭐ 638 | 🐛 3 | 🌐 Vim Script | 📅 2024-05-18
 * [vim-diminactive](https://github.com/blueyed/vim-diminactive) ⭐ 338 | 🐛 14 | 🌐 Vim script | 📅 2021-09-25
 
 ### Searching
 
-* [fzf](https://github.com/junegunn/fzf#as-vim-pluginc) ⭐ 83,622 | 🐛 333 | 🌐 Go | 📅 2026-10-17 ([highly recommended](https://github.com/junegunn/fzf#tips) ⭐ 83,622 | 🐛 333 | 🌐 Go | 📅 2026-10-17 to use [fd](https://github.com/sharkdp/fd) ⭐ 44,776 | 🐛 222 | 🌐 Rust | 📅 2026-10-17 and [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 69,187 | 🐛 216 | 🌐 Rust | 📅 2026-08-04)
+* [fzf](https://github.com/junegunn/fzf#as-vim-pluginc) ⭐ 83,644 | 🐛 333 | 🌐 Go | 📅 2026-10-17 ([highly recommended](https://github.com/junegunn/fzf#tips) ⭐ 83,644 | 🐛 333 | 🌐 Go | 📅 2026-10-17 to use [fd](https://github.com/sharkdp/fd) ⭐ 44,788 | 🐛 219 | 🌐 Rust | 📅 2026-10-18 and [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 69,218 | 🐛 216 | 🌐 Rust | 📅 2026-08-04)
 * [CtrlP](https://github.com/ctrlpvim/ctrlp.vim) ⭐ 5,640 | 🐛 201 | 🌐 Vim Script | 📅 2026-07-25
 * [Ack](https://github.com/mileszs/ack.vim) ⭐ 3,075 | 🐛 85 | 🌐 Vim script | 📅 2024-03-12
-* [CtrlSF](https://github.com/dyng/ctrlsf.vim) ⭐ 1,627 | 🐛 20 | 🌐 Vim Script | 📅 2026-05-10
+* [CtrlSF](https://github.com/dyng/ctrlsf.vim) ⭐ 1,627 | 🐛 21 | 🌐 Vim Script | 📅 2026-05-10
 * [Any-jump.vim](https://github.com/pechorin/any-jump.vim) ⭐ 1,132 | 🐛 36 | 🌐 Vim Script | 📅 2026-04-08
 * [FlyGrep](https://github.com/wsdjeg/FlyGrep.vim) ⭐ 305 | 🐛 0 | 🌐 Vim Script | 📅 2025-11-18
 * [zoxide.vim](https://github.com/nanotee/zoxide.vim) ⭐ 280 | 🐛 0 | 🌐 Vim Script | 📅 2026-08-18
@@ -113,7 +113,7 @@ Plugins organized by section and ordered alphabetically.
 
 * [vim-test](https://github.com/vim-test/vim-test) ⭐ 3,162 | 🐛 105 | 🌐 Vim Script | 📅 2026-10-06
 * [Dispatch](https://github.com/tpope/vim-dispatch) ⭐ 2,737 | 🐛 50 | 🌐 Vim Script | 📅 2024-09-02
-* [AsyncRun](https://github.com/skywind3000/asyncrun.vim) ⭐ 1,904 | 🐛 103 | 🌐 Vim Script | 📅 2025-11-20
+* [AsyncRun](https://github.com/skywind3000/asyncrun.vim) ⭐ 1,905 | 🐛 103 | 🌐 Vim Script | 📅 2025-11-20
 * [AsyncTasks](https://github.com/skywind3000/asynctasks.vim) ⭐ 934 | 🐛 39 | 🌐 Vim Script | 📅 2026-05-24
 
 ### Text Navigation
@@ -129,8 +129,8 @@ Plugins organized by section and ordered alphabetically.
 ### Syntax/Completion
 
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) ⭐ 25,869 | 🐛 39 | 🌐 Python | 📅 2026-10-14
-* [Coc](https://github.com/neoclide/coc.nvim) ⭐ 25,155 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-07
-* [Asynchronous Lint Engine](https://github.com/w0rp/ale) ⭐ 14,023 | 🐛 593 | 🌐 Vim Script | 📅 2026-08-21
+* [Coc](https://github.com/neoclide/coc.nvim) ⭐ 25,154 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-07
+* [Asynchronous Lint Engine](https://github.com/w0rp/ale) ⭐ 14,025 | 🐛 594 | 🌐 Vim Script | 📅 2026-08-21
 * [Syntastic](https://github.com/scrooloose/syntastic) ⚠️ Archived
 * [Neocomplete](https://github.com/Shougo/neocomplete.vim) ⭐ 2,722 | 🐛 1 | 🌐 Vim Script | 📅 2023-05-18
 * [TmuxComplete](https://github.com/wellle/tmux-complete.vim) ⭐ 519 | 🐛 14 | 🌐 Vim script | 📅 2022-08-12
@@ -196,13 +196,13 @@ Plugins organized by section and ordered alphabetically.
 
 ## Distributions
 
-* [LazyVim](https://github.com/LazyVim/LazyVim) ⭐ 27,682 | 🐛 85 | 🌐 Lua | 📅 2026-09-08
+* [LazyVim](https://github.com/LazyVim/LazyVim) ⭐ 27,689 | 🐛 86 | 🌐 Lua | 📅 2026-09-08
 * [spacevim](https://github.com/SpaceVim/SpaceVim) ⚠️ Archived
-* [LunarVim](https://github.com/lunarvim/lunarvim) ⭐ 19,258 | 🐛 33 | 🌐 Lua | 📅 2025-06-05
+* [LunarVim](https://github.com/lunarvim/lunarvim) ⭐ 19,257 | 🐛 33 | 🌐 Lua | 📅 2025-06-05
 * [spf13](https://github.com/spf13/spf13-vim) ⭐ 15,467 | 🐛 347 | 🌐 Vim Script | 📅 2026-06-12
 * [Janus](https://github.com/carlhuda/janus) ⭐ 7,841 | 🐛 97 | 🌐 Vim script | 📅 2022-04-09
 * [init.nvim](https://github.com/Blacksuan19/init.nvim) ⭐ 427 | 🐛 0 | 🌐 Lua | 📅 2026-04-19
-* [wim](https://github.com/wolandark/wim) ⭐ 340 | 🐛 0 | 🌐 Vim Script | 📅 2024-11-09
+* [wim](https://github.com/wolandark/wim) ⭐ 341 | 🐛 0 | 🌐 Vim Script | 📅 2024-11-09
 * [NvChad](https://nvchad.com/)
 
 ## Websites
@@ -225,4 +225,4 @@ Shameless plug for my vimrc [akrawchyk/dotfiles](https://github.com/akrawchyk/do
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
