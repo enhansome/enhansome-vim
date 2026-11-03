@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 18037,
+            "stars": 18040,
             "topics": [
               "awesome",
               "awesome-list",
@@ -52,7 +52,7 @@
             "open_issues": 23,
             "owner": "jmoon018",
             "repo": "PacVim",
-            "stars": 3329,
+            "stars": 3330,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
@@ -154,7 +154,7 @@
             "open_issues": 88,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35790,
+            "stars": 35792,
             "topics": [
               "vim"
             ]
@@ -177,7 +177,7 @@
             "open_issues": 204,
             "owner": "VundleVim",
             "repo": "Vundle.vim",
-            "stars": 23902,
+            "stars": 23903,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
@@ -198,7 +198,7 @@
             "open_issues": 72,
             "owner": "folke",
             "repo": "lazy.nvim",
-            "stars": 21696,
+            "stars": 21701,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -320,7 +320,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15825,
+            "stars": 15828,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
@@ -541,7 +541,7 @@
                 "open_issues": 140,
                 "owner": "tpope",
                 "repo": "vim-surround",
-                "stars": 14107,
+                "stars": 14108,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
@@ -589,7 +589,7 @@
                 "open_issues": 56,
                 "owner": "tpope",
                 "repo": "vim-unimpaired",
-                "stars": 3462,
+                "stars": 3461,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
@@ -656,7 +656,7 @@
                 "open_issues": 30,
                 "owner": "tpope",
                 "repo": "vim-repeat",
-                "stars": 2716,
+                "stars": 2715,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
@@ -1040,7 +1040,7 @@
                 "open_issues": 40,
                 "owner": "preservim",
                 "repo": "nerdtree",
-                "stars": 20087,
+                "stars": 20084,
                 "topics": [
                   "file-management",
                   "file-manager",
@@ -1067,7 +1067,7 @@
                 "open_issues": 33,
                 "owner": "tpope",
                 "repo": "vim-vinegar",
-                "stars": 2349,
+                "stars": 2350,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
@@ -1125,7 +1125,7 @@
                 "open_issues": 142,
                 "owner": "tpope",
                 "repo": "vim-fugitive",
-                "stars": 21817,
+                "stars": 21818,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
@@ -1146,7 +1146,7 @@
                 "open_issues": 2,
                 "owner": "airblade",
                 "repo": "vim-gitgutter",
-                "stars": 8518,
+                "stars": 8520,
                 "topics": [
                   "diff",
                   "git",
@@ -1180,7 +1180,7 @@
                 "open_issues": 39,
                 "owner": "vim-airline",
                 "repo": "vim-airline",
-                "stars": 17969,
+                "stars": 17970,
                 "topics": [
                   "statusline",
                   "tabline",
@@ -1237,7 +1237,7 @@
                 "open_issues": 13,
                 "owner": "mhinz",
                 "repo": "vim-signify",
-                "stars": 2725,
+                "stars": 2726,
                 "topics": [
                   "accurev",
                   "async",
@@ -1378,11 +1378,11 @@
                 "id": 13807606,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-29T12:41:50Z",
+                "last_commit": "2026-11-02T13:18:35Z",
                 "open_issues": 336,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 83908,
+                "stars": 83962,
                 "topics": [
                   "bash",
                   "cli",
@@ -1611,8 +1611,8 @@
                 "id": 28048077,
                 "language": "Vim Script",
                 "license": "MIT",
-                "last_commit": "2026-10-30T14:44:01Z",
-                "open_issues": 106,
+                "last_commit": "2026-11-01T22:31:32Z",
+                "open_issues": 105,
                 "owner": "vim-test",
                 "repo": "vim-test",
                 "stars": 3164,
@@ -1814,7 +1814,7 @@
                 "open_issues": 0,
                 "owner": "SirVer",
                 "repo": "ultisnips",
-                "stars": 7699,
+                "stars": 7700,
                 "topics": [
                   "plugin",
                   "snippets",
@@ -1891,10 +1891,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-26T16:09:19Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "neoclide",
                 "repo": "coc.nvim",
-                "stars": 25143,
+                "stars": 25142,
                 "topics": [
                   "autocompletion",
                   "language-client",
@@ -1957,7 +1957,7 @@
                 "open_issues": 50,
                 "owner": "vim-syntastic",
                 "repo": "syntastic",
-                "stars": 11204,
+                "stars": 11203,
                 "topics": [
                   "lint",
                   "lint-checking",
@@ -2517,7 +2517,7 @@
                 "open_issues": 42,
                 "owner": "tpope",
                 "repo": "vim-rails",
-                "stars": 4153,
+                "stars": 4152,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
@@ -2549,7 +2549,7 @@
             "open_issues": 91,
             "owner": "LazyVim",
             "repo": "LazyVim",
-            "stars": 27782,
+            "stars": 27788,
             "topics": [
               "neovim",
               "neovim-conf",
@@ -2577,7 +2577,7 @@
             "open_issues": 5,
             "owner": "wsdjeg",
             "repo": "SpaceVim",
-            "stars": 20178,
+            "stars": 20180,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -2643,7 +2643,7 @@
             "open_issues": 346,
             "owner": "spf13",
             "repo": "spf13-vim",
-            "stars": 15467,
+            "stars": 15466,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
@@ -2664,7 +2664,7 @@
             "open_issues": 97,
             "owner": "carlhuda",
             "repo": "janus",
-            "stars": 7838,
+            "stars": 7837,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
@@ -2735,7 +2735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T21:58:06.756Z",
+    "last_updated": "2026-11-03T00:54:47.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "The Vim plugin shortlist",
@@ -2747,7 +2747,7 @@
       "open_issues": 14,
       "owner": "akrawchyk",
       "repo": "awesome-vim",
-      "stars": 2133,
+      "stars": 2134,
       "topics": [
         "awesome",
         "vim"
