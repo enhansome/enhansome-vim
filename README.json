@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 18046,
+            "stars": 18048,
             "topics": [
               "awesome",
               "awesome-list",
@@ -150,11 +150,11 @@
             "id": 12732573,
             "language": "Vim Script",
             "license": "MIT",
-            "last_commit": "2026-10-15T04:36:11Z",
-            "open_issues": 89,
+            "last_commit": "2026-11-07T13:10:26Z",
+            "open_issues": 88,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35792,
+            "stars": 35785,
             "topics": [
               "vim"
             ]
@@ -198,7 +198,7 @@
             "open_issues": 73,
             "owner": "folke",
             "repo": "lazy.nvim",
-            "stars": 21701,
+            "stars": 21706,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -272,7 +272,7 @@
             "open_issues": 0,
             "owner": "Shougo",
             "repo": "neobundle.vim",
-            "stars": 2278,
+            "stars": 2277,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
@@ -341,7 +341,7 @@
             "open_issues": 132,
             "owner": "altercation",
             "repo": "vim-colors-solarized",
-            "stars": 6586,
+            "stars": 6585,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
@@ -411,7 +411,7 @@
             "open_issues": 13,
             "owner": "nanotech",
             "repo": "jellybeans.vim",
-            "stars": 1871,
+            "stars": 1872,
             "topics": [
               "colorscheme",
               "vim",
@@ -463,7 +463,7 @@
             "open_issues": 53,
             "owner": "chriskempson",
             "repo": "base16-vim",
-            "stars": 173,
+            "stars": 172,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
@@ -589,7 +589,7 @@
                 "open_issues": 56,
                 "owner": "tpope",
                 "repo": "vim-unimpaired",
-                "stars": 3461,
+                "stars": 3462,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
@@ -1088,7 +1088,7 @@
                 "open_issues": 19,
                 "owner": "justinmk",
                 "repo": "vim-dirvish",
-                "stars": 1279,
+                "stars": 1280,
                 "topics": [
                   "directory-browser",
                   "neovim",
@@ -1125,7 +1125,7 @@
                 "open_issues": 142,
                 "owner": "tpope",
                 "repo": "vim-fugitive",
-                "stars": 21817,
+                "stars": 21820,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
@@ -1378,11 +1378,11 @@
                 "id": 13807606,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-06T01:47:00Z",
-                "open_issues": 334,
+                "last_commit": "2026-11-07T12:06:19Z",
+                "open_issues": 333,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 84047,
+                "stars": 84058,
                 "topics": [
                   "bash",
                   "cli",
@@ -1751,7 +1751,7 @@
                 "open_issues": 128,
                 "owner": "easymotion",
                 "repo": "vim-easymotion",
-                "stars": 7737,
+                "stars": 7738,
                 "topics": [
                   "vim",
                   "vim-easymotion",
@@ -1923,7 +1923,7 @@
                 "open_issues": 595,
                 "owner": "dense-analysis",
                 "repo": "ale",
-                "stars": 14025,
+                "stars": 14024,
                 "topics": [
                   "autocomplete",
                   "language-server-protocol",
@@ -2545,11 +2545,11 @@
             "id": 583706111,
             "language": "Lua",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T09:09:52Z",
-            "open_issues": 90,
+            "last_commit": "2026-11-07T16:06:51Z",
+            "open_issues": 88,
             "owner": "LazyVim",
             "repo": "LazyVim",
-            "stars": 27815,
+            "stars": 27817,
             "topics": [
               "neovim",
               "neovim-conf",
@@ -2577,7 +2577,7 @@
             "open_issues": 5,
             "owner": "wsdjeg",
             "repo": "SpaceVim",
-            "stars": 20175,
+            "stars": 20172,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -2605,7 +2605,7 @@
             "open_issues": 33,
             "owner": "LunarVim",
             "repo": "LunarVim",
-            "stars": 19247,
+            "stars": 19246,
             "topics": [
               "formatters",
               "hacktoberfest",
@@ -2735,7 +2735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T23:04:07.196Z",
+    "last_updated": "2026-11-07T21:44:56.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "The Vim plugin shortlist",
