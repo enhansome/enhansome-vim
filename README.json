@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 18061,
+            "stars": 18062,
             "topics": [
               "awesome",
               "awesome-list",
@@ -106,7 +106,7 @@
             "open_issues": 2,
             "owner": "dahu",
             "repo": "LearnVim",
-            "stars": 420,
+            "stars": 419,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
@@ -154,7 +154,7 @@
             "open_issues": 89,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35790,
+            "stars": 35789,
             "topics": [
               "vim"
             ]
@@ -177,7 +177,7 @@
             "open_issues": 204,
             "owner": "VundleVim",
             "repo": "Vundle.vim",
-            "stars": 23907,
+            "stars": 23908,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
@@ -198,7 +198,7 @@
             "open_issues": 74,
             "owner": "folke",
             "repo": "lazy.nvim",
-            "stars": 21737,
+            "stars": 21748,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -225,7 +225,7 @@
             "open_issues": 27,
             "owner": "tpope",
             "repo": "vim-pathogen",
-            "stars": 12105,
+            "stars": 12104,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
@@ -320,7 +320,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15843,
+            "stars": 15845,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
@@ -390,7 +390,7 @@
             "open_issues": 36,
             "owner": "tomasr",
             "repo": "molokai",
-            "stars": 3620,
+            "stars": 3619,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
@@ -437,7 +437,7 @@
             "open_issues": 1,
             "owner": "romainl",
             "repo": "Apprentice",
-            "stars": 937,
+            "stars": 938,
             "topics": [
               "apprentice",
               "colorscheme",
@@ -562,7 +562,7 @@
                 "open_issues": 102,
                 "owner": "preservim",
                 "repo": "nerdcommenter",
-                "stars": 5003,
+                "stars": 5002,
                 "topics": [
                   "comment",
                   "commenting",
@@ -635,7 +635,7 @@
                 "open_issues": 38,
                 "owner": "tpope",
                 "repo": "vim-abolish",
-                "stars": 2964,
+                "stars": 2967,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
@@ -663,27 +663,6 @@
             },
             {
               "node_type": "item",
-              "title": "IndentGuides",
-              "description": "preservim/vim-indent-guides",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Vim plugin for visually displaying indent levels in code",
-                "homepage": null,
-                "id": 1139610,
-                "language": "Vim Script",
-                "license": "MIT",
-                "last_commit": "2023-06-14T16:40:10Z",
-                "open_issues": 46,
-                "owner": "preservim",
-                "repo": "vim-indent-guides",
-                "stars": 2652,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:44:06.082Z"
-            },
-            {
-              "node_type": "item",
               "title": "Tabular",
               "description": "godlygeek/tabular",
               "children": [],
@@ -698,6 +677,27 @@
                 "open_issues": 30,
                 "owner": "godlygeek",
                 "repo": "tabular",
+                "stars": 2653,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:44:06.082Z"
+            },
+            {
+              "node_type": "item",
+              "title": "IndentGuides",
+              "description": "preservim/vim-indent-guides",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Vim plugin for visually displaying indent levels in code",
+                "homepage": null,
+                "id": 1139610,
+                "language": "Vim Script",
+                "license": "MIT",
+                "last_commit": "2023-06-14T16:40:10Z",
+                "open_issues": 46,
+                "owner": "preservim",
+                "repo": "vim-indent-guides",
                 "stars": 2652,
                 "topics": []
               },
@@ -1064,7 +1064,7 @@
                 "language": "Vim script",
                 "license": null,
                 "last_commit": "2024-06-28T23:22:40Z",
-                "open_issues": 33,
+                "open_issues": 32,
                 "owner": "tpope",
                 "repo": "vim-vinegar",
                 "stars": 2349,
@@ -1146,7 +1146,7 @@
                 "open_issues": 2,
                 "owner": "airblade",
                 "repo": "vim-gitgutter",
-                "stars": 8517,
+                "stars": 8518,
                 "topics": [
                   "diff",
                   "git",
@@ -1237,7 +1237,7 @@
                 "open_issues": 13,
                 "owner": "mhinz",
                 "repo": "vim-signify",
-                "stars": 2726,
+                "stars": 2725,
                 "topics": [
                   "accurev",
                   "async",
@@ -1382,7 +1382,7 @@
                 "open_issues": 336,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 84298,
+                "stars": 84318,
                 "topics": [
                   "bash",
                   "cli",
@@ -1414,7 +1414,7 @@
                 "open_issues": 202,
                 "owner": "ctrlpvim",
                 "repo": "ctrlp.vim",
-                "stars": 5640,
+                "stars": 5639,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
@@ -1611,8 +1611,8 @@
                 "id": 28048077,
                 "language": "Vim Script",
                 "license": "MIT",
-                "last_commit": "2026-11-19T13:26:55Z",
-                "open_issues": 101,
+                "last_commit": "2026-11-20T13:35:54Z",
+                "open_issues": 102,
                 "owner": "vim-test",
                 "repo": "vim-test",
                 "stars": 3166,
@@ -1776,7 +1776,7 @@
                 "open_issues": 14,
                 "owner": "justinmk",
                 "repo": "vim-sneak",
-                "stars": 3539,
+                "stars": 3540,
                 "topics": [
                   "motion",
                   "navigation",
@@ -1814,7 +1814,7 @@
                 "open_issues": 0,
                 "owner": "SirVer",
                 "repo": "ultisnips",
-                "stars": 7696,
+                "stars": 7695,
                 "topics": [
                   "plugin",
                   "snippets",
@@ -1920,7 +1920,7 @@
                 "language": "Vim Script",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-20T08:31:33Z",
-                "open_issues": 597,
+                "open_issues": 598,
                 "owner": "dense-analysis",
                 "repo": "ale",
                 "stars": 14027,
@@ -1985,7 +1985,7 @@
                 "open_issues": 1,
                 "owner": "Shougo",
                 "repo": "neocomplete.vim",
-                "stars": 2719,
+                "stars": 2718,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
@@ -2229,7 +2229,7 @@
                 "open_issues": 3,
                 "owner": "instant-markdown",
                 "repo": "vim-instant-markdown",
-                "stars": 2749,
+                "stars": 2750,
                 "topics": [
                   "markdown",
                   "vim"
@@ -2549,7 +2549,7 @@
             "open_issues": 88,
             "owner": "LazyVim",
             "repo": "LazyVim",
-            "stars": 27894,
+            "stars": 27902,
             "topics": [
               "neovim",
               "neovim-conf",
@@ -2735,7 +2735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T00:34:49.910Z",
+    "last_updated": "2026-11-20T23:57:51.229Z",
     "original_repository_info": {
       "archived": false,
       "description": "The Vim plugin shortlist",
