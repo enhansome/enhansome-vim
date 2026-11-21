@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 18062,
+            "stars": 18063,
             "topics": [
               "awesome",
               "awesome-list",
@@ -52,7 +52,7 @@
             "open_issues": 23,
             "owner": "jmoon018",
             "repo": "PacVim",
-            "stars": 3329,
+            "stars": 3330,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
@@ -154,7 +154,7 @@
             "open_issues": 89,
             "owner": "junegunn",
             "repo": "vim-plug",
-            "stars": 35789,
+            "stars": 35792,
             "topics": [
               "vim"
             ]
@@ -198,7 +198,7 @@
             "open_issues": 74,
             "owner": "folke",
             "repo": "lazy.nvim",
-            "stars": 21748,
+            "stars": 21753,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -246,7 +246,7 @@
             "open_issues": 2,
             "owner": "Shougo",
             "repo": "dein.vim",
-            "stars": 3417,
+            "stars": 3418,
             "topics": [
               "dein",
               "neovim",
@@ -635,7 +635,7 @@
                 "open_issues": 38,
                 "owner": "tpope",
                 "repo": "vim-abolish",
-                "stars": 2967,
+                "stars": 2966,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
@@ -1040,7 +1040,7 @@
                 "open_issues": 40,
                 "owner": "preservim",
                 "repo": "nerdtree",
-                "stars": 20093,
+                "stars": 20092,
                 "topics": [
                   "file-management",
                   "file-manager",
@@ -1122,10 +1122,10 @@
                 "language": "Vim Script",
                 "license": null,
                 "last_commit": "2026-03-07T19:20:47Z",
-                "open_issues": 142,
+                "open_issues": 143,
                 "owner": "tpope",
                 "repo": "vim-fugitive",
-                "stars": 21829,
+                "stars": 21830,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:06.082Z"
@@ -1382,7 +1382,7 @@
                 "open_issues": 336,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 84318,
+                "stars": 84326,
                 "topics": [
                   "bash",
                   "cli",
@@ -1611,8 +1611,8 @@
                 "id": 28048077,
                 "language": "Vim Script",
                 "license": "MIT",
-                "last_commit": "2026-11-20T13:35:54Z",
-                "open_issues": 102,
+                "last_commit": "2026-11-21T02:49:14Z",
+                "open_issues": 101,
                 "owner": "vim-test",
                 "repo": "vim-test",
                 "stars": 3166,
@@ -2052,7 +2052,7 @@
             "open_issues": 118,
             "owner": "vim-polyglot",
             "repo": "vim-polyglot",
-            "stars": 5707,
+            "stars": 5708,
             "topics": [
               "language-packs",
               "plugin",
@@ -2605,7 +2605,7 @@
             "open_issues": 33,
             "owner": "LunarVim",
             "repo": "LunarVim",
-            "stars": 19240,
+            "stars": 19239,
             "topics": [
               "formatters",
               "hacktoberfest",
@@ -2643,7 +2643,7 @@
             "open_issues": 346,
             "owner": "spf13",
             "repo": "spf13-vim",
-            "stars": 15459,
+            "stars": 15460,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:06.082Z"
@@ -2735,7 +2735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T23:57:51.229Z",
+    "last_updated": "2026-11-21T23:09:18.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "The Vim plugin shortlist",
